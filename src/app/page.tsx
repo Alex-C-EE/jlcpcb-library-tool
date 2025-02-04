@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Papa, { ParseError } from 'papaparse'; // Import ParseError
+import Papa from 'papaparse';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
@@ -36,17 +36,19 @@ const JLCPCBFilter = () => {
         const response = await fetch('/JLCPCB_Basic_Parts.csv');
         const text = await response.text();
         
-        Papa.parse<string>(text, {
+        Papa.parse(text, {
           header: true,
           skipEmptyLines: true,
           complete: (results) => {
-            const parsedData = results.data as unknown as RowData[]; // Cast to unknown first, then to RowData[]
+
+            const parsedData = results.data as RowData[]; 
+      
             setData(parsedData);
-            
+        
             const uniqueTypes = ['All', ...new Set(parsedData.map(row => row.Type).filter(Boolean))];
             const uniqueFootprints = ['All', ...new Set(parsedData.map(row => row.Footprint).filter(Boolean))];
             const uniqueVoltages = ['All', ...new Set(parsedData.map(row => row['Voltage Rating']).filter(Boolean))];
-          
+        
             setTypes(uniqueTypes.sort());
             setFootprints(uniqueFootprints.sort());
             setVoltages(uniqueVoltages.sort());
@@ -55,6 +57,7 @@ const JLCPCBFilter = () => {
             console.error('Error parsing CSV:', error.message);
           }
         });
+        
       } catch (error) {
         console.error('Error loading CSV:', error);
       }
