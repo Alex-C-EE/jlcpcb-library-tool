@@ -38,13 +38,12 @@ const JLCPCBFilter = () => {
         const response = await fetch('/JLCPCB_Basic_Parts.csv');
         const text = await response.text();
         
-        Papa.parse(text, {
+        Papa.parse<string>(text, {
           header: true,
           skipEmptyLines: true,
+          delimiter: ";",  // Specify semicolon as the delimiter
           complete: (results) => {
-
-            const parsedData = results.data as RowData[]; 
-      
+            const parsedData = results.data as unknown as RowData[];
             setData(parsedData);
         
             const uniqueTypes = ['All', ...new Set(parsedData.map(row => row.Type).filter(Boolean))];
