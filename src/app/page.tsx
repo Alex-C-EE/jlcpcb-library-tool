@@ -1,5 +1,11 @@
 'use client';
 
+import React, { useState, useEffect } from 'react';
+import Papa, { ParseError } from 'papaparse'; // Import ParseError
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Input } from '@/components/ui/input';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
+
 interface RowData {
   'JLCPCB Part #': string;
   Type: string;
@@ -9,13 +15,6 @@ interface RowData {
   Tolerance: string;
   [key: string]: any; // This allows flexibility for any extra columns
 }
-
-
-import React, { useState, useEffect } from 'react';
-import Papa from 'papaparse';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 
 const JLCPCBFilter = () => {
   const [data, setData] = useState<RowData[]>([]);
@@ -27,7 +26,6 @@ const JLCPCBFilter = () => {
     voltage: 'All'
   });
 
-  // Filter options
   const [types, setTypes] = useState(['All']);
   const [footprints, setFootprints] = useState(['All']);
   const [voltages, setVoltages] = useState(['All']);
@@ -38,22 +36,23 @@ const JLCPCBFilter = () => {
         const response = await fetch('/JLCPCB_Basic_Parts.csv');
         const text = await response.text();
         
-        Papa.parse(text, {
+        Papa.parse<string>(text, {
           header: true,
           skipEmptyLines: true,
           complete: (results) => {
-            setData(results.data as RowData[]); // Type assertion here
-                    
-            const uniqueTypes = ['All', ...new Set((results.data as RowData[]).map(row => row.Type).filter(Boolean))];
-            const uniqueFootprints = ['All', ...new Set((results.data as RowData[]).map(row => row.Footprint).filter(Boolean))];
-            const uniqueVoltages = ['All', ...new Set((results.data as RowData[]).map(row => row['Voltage Rating']).filter(Boolean))];
+            const parsedData = results.data as unknown as RowData[]; // Cast to unknown first, then to RowData[]
+            setData(parsedData);
+            
+            const uniqueTypes = ['All', ...new Set(parsedData.map(row => row.Type).filter(Boolean))];
+            const uniqueFootprints = ['All', ...new Set(parsedData.map(row => row.Footprint).filter(Boolean))];
+            const uniqueVoltages = ['All', ...new Set(parsedData.map(row => row['Voltage Rating']).filter(Boolean))];
           
             setTypes(uniqueTypes.sort());
             setFootprints(uniqueFootprints.sort());
             setVoltages(uniqueVoltages.sort());
           },
-          error: (error) => {
-            console.error('Error parsing CSV:', error);
+          error: (error: Error) => {
+            console.error('Error parsing CSV:', error.message);
           }
         });
       } catch (error) {
@@ -65,7 +64,6 @@ const JLCPCBFilter = () => {
   }, []);
 
   useEffect(() => {
-    // Apply filters
     let filtered = [...data];
     
     if (filters.type !== 'All') {
@@ -89,7 +87,7 @@ const JLCPCBFilter = () => {
     setFilteredData(filtered);
   }, [data, filters]);
 
-  const handleFilterChange = (name, value) => {
+  const handleFilterChange = (name: string, value: string) => {
     setFilters(prev => ({
       ...prev,
       [name]: value
@@ -169,7 +167,7 @@ const JLCPCBFilter = () => {
               </TableHeader>
               <TableBody>
                 {filteredData.map((row, index) => (
-                  <TableRow key={index}>
+                  <TableRow key={row['JLCPCB Part #'] || index}>
                     <TableCell>{row['JLCPCB Part #']}</TableCell>
                     <TableCell>{row.Type}</TableCell>
                     <TableCell>{row.Footprint}</TableCell>
