@@ -1,274 +1,274 @@
-﻿JLCPCB Part #;MFR Part #;Library;Manufacturer;Stock;Price (1pc);Price (100pcs);Price (1000pcs);Datasheet URL;Power Rating;Type;Voltage Rating;Temperature Coefficient;Tolerance;Value;Footprint;Dielectric
-C1523;0402B102K500NT;Basic;Fh (guangdong Fenghua Advanced tech);1815989;$0.0010;$0.0005;;https://www.lcsc.com/partdetail/1875-0402B102K500NT/C1523;;MLCC;50V;;±10%;1nF;402;X7R
-C1525;CL05B104KO5NNNC;Basic;Samsung electro-mechanics;28052657;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/1877-CL05B104KO5NNNC/C1525;;MLCC;16V;;±10%;100nF;402;X7R
-C1530;0402B221K500NT;Basic;Fh (guangdong Fenghua Advanced tech);487769;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/1882-0402B221K500NT/C1530;;MLCC;50V;;±10%;220pF;402;X7R
-C1532;0402B223K500NT;Basic;Fh (guangdong Fenghua Advanced tech);346409;$0.0017;$0.0010;;https://www.lcsc.com/partdetail/1884-0402B223K500NT/C1532;;MLCC;50V;;±10%;22nF;402;X7R
-C1538;0402B472K500NT;Basic;Fh (guangdong Fenghua Advanced tech);486281;$0.0010;$0.0005;;https://www.lcsc.com/partdetail/1890-0402B472K500NT/C1538;;MLCC;50V;;±10%;7nF;402;X7R
-C1546;0402CG101J500NT;Basic;Fh (guangdong Fenghua Advanced tech);2293072;$0.0009;$0.0005;;https://www.lcsc.com/partdetail/1898-0402CG101J500NT/C1546;;MLCC;50V;;±5%;100pF;402;C0G
-C1547;0402CG120J500NT;Basic;Fh (guangdong Fenghua Advanced tech);791408;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/1899-0402CG120J500NT/C1547;;MLCC;50V;;±5%;12pF;402;C0G
-C1548;0402CG150J500NT;Basic;Fh (guangdong Fenghua Advanced tech);841133;$0.0009;$0.0005;;https://www.lcsc.com/partdetail/1900-0402CG150J500NT/C1548;;MLCC;50V;;±5%;15pF;402;C0G
-C1549;0402CG180J500NT;Basic;Fh (guangdong Fenghua Advanced tech);798856;$0.0010;$0.0005;;https://www.lcsc.com/partdetail/1901-0402CG180J500NT/C1549;;MLCC;50V;;±5%;18pF;402;C0G
-C1554;0402CG200J500NT;Basic;Fh (guangdong Fenghua Advanced tech);1651774;$0.0009;$0.0005;;https://www.lcsc.com/partdetail/1906-0402CG200J500NT/C1554;;MLCC;50V;;±5%;20pF;402;C0G
-C1555;0402CG220J500NT;Basic;Fh (guangdong Fenghua Advanced tech);1672984;$0.0010;$0.0005;;https://www.lcsc.com/partdetail/1907-0402CG220J500NT/C1555;;MLCC;50V;;±5%;22pF;402;C0G
-C1562;0402CG330J500NT;Basic;Fh (guangdong Fenghua Advanced tech);1078045;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/1914-0402CG330J500NT/C1562;;MLCC;50V;;±5%;33pF;402;C0G
-C1567;0402CG470J500NT;Basic;Fh (guangdong Fenghua Advanced tech);422581;$0.0011;$0.0006;;https://www.lcsc.com/partdetail/1919-0402CG470J500NT/C1567;;MLCC;50V;;±5%;47pF;402;C0G
-C1588;CL10B102KB8NNNC;Basic;Samsung electro-mechanics;4549685;$0.0028;$0.0017;;https://www.lcsc.com/partdetail/1940-CL10B102KB8NNNC/C1588;;MLCC;50V;;±10%;1nF;603;X7R
-C1594;0603B151K500NT;Basic;Fh (guangdong Fenghua Advanced tech);244678;$0.0026;$0.0016;;https://www.lcsc.com/partdetail/1946-0603B151K500NT/C1594;;MLCC;50V;;±10%;150pF;603;X7R
-C1603;CL10B221KB8NNNC;Basic;Samsung electro-mechanics;271634;$0.0049;$0.0032;;https://www.lcsc.com/partdetail/1955-CL10B221KB8NNNC/C1603;;MLCC;50V;;±10%;220pF;603;X7R
-C1604;0603B222K500NT;Basic;Fh (guangdong Fenghua Advanced tech);1090984;$0.0026;$0.0016;;https://www.lcsc.com/partdetail/1956-0603B222K500NT/C1604;;MLCC;50V;;±10%;2nF;603;X7R
-C1613;CL10B332KB8NNNC;Basic;Samsung electro-mechanics;174081;$0.0047;$0.0031;;https://www.lcsc.com/partdetail/1965-CL10B332KB8NNNC/C1613;;MLCC;50V;;±10%;3nF;603;X7R
-C1620;0603B471K500NT;Basic;Fh (guangdong Fenghua Advanced tech);861441;$0.0025;$0.0016;;https://www.lcsc.com/partdetail/1972-0603B471K500NT/C1620;;MLCC;50V;;±10%;470pF;603;X7R
-C1622;CL10B473KB8NNNC;Basic;Samsung electro-mechanics;181509;$0.0051;$0.0036;;https://www.lcsc.com/partdetail/1974-CL10B473KB8NNNC/C1622;;MLCC;50V;;±10%;47nF;603;X7R
-C1623;CL10B474KA8NNNC;Basic;Samsung electro-mechanics;487693;$0.0067;$0.0041;;https://www.lcsc.com/partdetail/1975-CL10B474KA8NNNC/C1623;;MLCC;25V;;±10%;470nF;603;X7R
-C1631;0603B682K500NT;Basic;Fh (guangdong Fenghua Advanced tech);240852;$0.0029;$0.0018;;https://www.lcsc.com/partdetail/1983-0603B682K500NT/C1631;;MLCC;50V;;±10%;8nF;603;X7R
-C1634;CL10C100JB8NNNC;Basic;Samsung electro-mechanics;871421;$0.0042;$0.0029;;https://www.lcsc.com/partdetail/1986-CL10C100JB8NNNC/C1634;;MLCC;50V;;±5%;10pF;603;C0G
-C1644;CL10C150JB8NNNC;Basic;Samsung electro-mechanics;463768;$0.0045;$0.0034;;https://www.lcsc.com/partdetail/1996-CL10C150JB8NNNC/C1644;;MLCC;50V;;±5%;15pF;603;C0G
-C1647;CL10C180JB8NNNC;Basic;Samsung electro-mechanics;261778;$0.0040;$0.0026;;https://www.lcsc.com/partdetail/1999-CL10C180JB8NNNC/C1647;;MLCC;50V;;±5%;18pF;603;C0G
-C1648;CL10C200JB8NNNC;Basic;Samsung electro-mechanics;1380888;$0.0041;$0.0028;;https://www.lcsc.com/partdetail/2000-CL10C200JB8NNNC/C1648;;MLCC;50V;;±5%;20pF;603;C0G
-C1653;CL10C220JB8NNNC;Basic;Samsung electro-mechanics;1994984;$0.0038;$0.0025;;https://www.lcsc.com/partdetail/2005-CL10C220JB8NNNC/C1653;;MLCC;50V;;±5%;22pF;603;C0G
-C1658;0603CG300J500NT;Basic;Fh (guangdong Fenghua Advanced tech);461205;$0.0030;$0.0018;;https://www.lcsc.com/partdetail/2010-0603CG300J500NT/C1658;;MLCC;50V;;±5%;30pF;603;C0G
-C1663;CL10C330JB8NNNC;Basic;Samsung electro-mechanics;785172;$0.0047;$0.0033;;https://www.lcsc.com/partdetail/2015-CL10C330JB8NNNC/C1663;;MLCC;50V;;±5%;33pF;603;C0G
-C1664;CL10C331JB8NNNC;Basic;Samsung electro-mechanics;631141;$0.0028;$0.0016;;https://www.lcsc.com/partdetail/2016-CL10C331JB8NNNC/C1664;;MLCC;50V;;±5%;330pF;603;C0G
-C1671;CL10C470JB8NNNC;Basic;Samsung electro-mechanics;799554;$0.0040;$0.0027;;https://www.lcsc.com/partdetail/2023-CL10C470JB8NNNC/C1671;;MLCC;50V;;±5%;47pF;603;C0G
-C1710;CL21B103KBANNNC;Basic;Samsung electro-mechanics;1470749;$0.0059;$0.0035;;https://www.lcsc.com/partdetail/2062-CL21B103KBANNNC/C1710;;MLCC;50V;;±10%;10nF;805;X7R
-C1729;CL21B223KBANNNC;Basic;Samsung electro-mechanics;99841;$0.0077;$0.0053;;https://www.lcsc.com/partdetail/2081-CL21B223KBANNNC/C1729;;MLCC;50V;;±10%;22nF;805;X7R
-C1739;0805B333K500NT;Basic;Fh (guangdong Fenghua Advanced tech);98259;$0.0073;$0.0047;;https://www.lcsc.com/partdetail/2091-0805B333K500NT/C1739;;MLCC;50V;;±10%;33nF;805;X7R
-C1743;0805B471K500NT;Basic;Fh (guangdong Fenghua Advanced tech);226357;$0.0046;$0.0031;;https://www.lcsc.com/partdetail/2095-0805B471K500NT/C1743;;MLCC;50V;;±10%;470pF;805;X7R
-C1744;0805B472K500NT;Basic;Fh (guangdong Fenghua Advanced tech);288954;$0.0047;$0.0030;;https://www.lcsc.com/partdetail/2096-0805B472K500NT/C1744;;MLCC;50V;;±10%;7nF;805;X7R
-C1779;CL21A475KAQNNNE;Basic;Samsung electro-mechanics;1954760;$0.0104;$0.0056;;https://www.lcsc.com/partdetail/2131-CL21A475KAQNNNE/C1779;;MLCC;25V;;±10%;7uF;805;X5R
-C1790;CL21C101JBANNNC;Basic;Samsung electro-mechanics;576952;$0.0074;$0.0040;;https://www.lcsc.com/partdetail/2142-CL21C101JBANNNC/C1790;;MLCC;50V;;±5%;100pF;805;C0G
-C1798;CL21C200JBANNNC;Basic;Samsung electro-mechanics;250628;$0.0127;$0.0076;;https://www.lcsc.com/partdetail/2150-CL21C200JBANNNC/C1798;;MLCC;50V;;±5%;20pF;805;C0G
-C1804;CL21C220JBANNNC;Basic;Samsung electro-mechanics;401110;$0.0109;$0.0057;;https://www.lcsc.com/partdetail/2156-CL21C220JBANNNC/C1804;;MLCC;50V;;±5%;22pF;805;C0G
-C1846;1206B103K500NT;Basic;Fh (guangdong Fenghua Advanced tech);322803;$0.0115;$0.0066;;https://www.lcsc.com/partdetail/2198-1206B103K500NT/C1846;;MLCC;50V;;±10%;10nF;1206;X7R
-C1848;CL31B105KBHNNNE;Basic;Samsung electro-mechanics;873408;$0.0179;$0.0121;;https://www.lcsc.com/partdetail/2200-CL31B105KBHNNNE/C1848;;MLCC;50V;;±10%;1uF;1206;X7R
-C5378;CL21B224KBFNNNE;Basic;Samsung electro-mechanics;358784;$0.0102;$0.0069;;https://www.lcsc.com/partdetail/5810-CL21B224KBFNNNE/C5378;;MLCC;50V;;±10%;220nF;805;X7R
-C9196;1206B102K202NT;Basic;Fh (guangdong Fenghua Advanced tech);3302574;$0.0082;$0.0047;;https://www.lcsc.com/partdetail/9721-1206B102K202NT/C9196;;MLCC;2kV;;±10%;1nF;1206;X7R
-C12530;CL05A225MQ5NSNC;Basic;Samsung electro-mechanics;4045613;$0.0020;$0.0012;;https://www.lcsc.com/partdetail/13164-CL05A225MQ5NSNC/C12530;;MLCC;3V;;±20%;2uF;402;X5R
-C12891;CL31A226KAHNNNE;Basic;Samsung electro-mechanics;675336;$0.0395;$0.0258;;https://www.lcsc.com/partdetail/13537-CL31A226KAHNNNE/C12891;;MLCC;25V;;±10%;22uF;1206;X5R
-C13585;CL31A106KBHNNNE;Basic;Samsung electro-mechanics;4879173;$0.0293;$0.0180;;https://www.lcsc.com/partdetail/14236-CL31A106KBHNNNE/C13585;;MLCC;50V;;±10%;10uF;1206;X5R
-C13967;CL21B474KBFNNNE;Basic;Samsung electro-mechanics;197016;$0.0121;$0.0079;;https://www.lcsc.com/partdetail/14623-CL21B474KBFNNNE/C13967;;MLCC;50V;;±10%;470nF;805;X7R
-C14663;CC0603KRX7R9BB104;Basic;Yageo;29812665;$0.0024;$0.0015;;https://www.lcsc.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663;;MLCC;50V;;±10%;100nF;603;X7R
-C14857;CL21C470JBANNNC;Basic;Samsung electro-mechanics;255324;$0.0110;$0.0066;;https://www.lcsc.com/partdetail/15529-CL21C470JBANNNC/C14857;;MLCC;50V;;±5%;47pF;805;C0G
-C14858;CL10C101JB8NNNC;Basic;Samsung electro-mechanics;3954678;$0.0025;$0.0015;;https://www.lcsc.com/partdetail/15530-CL10C101JB8NNNC/C14858;;MLCC;50V;;±5%;100pF;603;C0G
-C15008;CL31A107MQHNNNE;Basic;Samsung electro-mechanics;156944;$0.0624;$0.0393;;https://www.lcsc.com/partdetail/15681-CL31A107MQHNNNE/C15008;;MLCC;3V;;±20%;100uF;1206;X5R
-C15195;CL05B103KB5NNNC;Basic;Samsung electro-mechanics;2294279;$0.0012;$0.0007;;https://www.lcsc.com/partdetail/15869-CL05B103KB5NNNC/C15195;;MLCC;50V;;±10%;10nF;402;X7R
-C15525;CL05A106MQ5NUNC;Basic;Samsung electro-mechanics;9237672;$0.0039;$0.0022;;https://www.lcsc.com/partdetail/16204-CL05A106MQ5NUNC/C15525;;MLCC;3V;;±20%;10uF;402;X5R
-C15849;CL10A105KB8NNNC;Basic;Samsung electro-mechanics;10294741;$0.0041;$0.0026;;https://www.lcsc.com/partdetail/16531-CL10A105KB8NNNC/C15849;;MLCC;50V;;±10%;1uF;603;X5R
-C15850;CL21A106KAYNNNE;Basic;Samsung electro-mechanics;8422399;$0.0089;$0.0061;;https://www.lcsc.com/partdetail/16532-CL21A106KAYNNNE/C15850;;MLCC;25V;;±10%;10uF;805;X5R
-C16772;CL05B224KO5NNNC;Basic;Samsung electro-mechanics;430312;$0.0044;$0.0029;;https://www.lcsc.com/partdetail/17456-CL05B224KO5NNNC/C16772;;MLCC;16V;;±10%;220nF;402;X7R
-C16780;CL21A476MQYNNNE;Basic;Samsung electro-mechanics;890476;$0.0242;$0.0143;;https://www.lcsc.com/partdetail/17464-CL21A476MQYNNNE/C16780;;MLCC;3V;;±20%;47uF;805;X5R
-C19666;CL10A475KO8NNNC;Basic;Samsung electro-mechanics;2928897;$0.0098;$0.0060;;https://www.lcsc.com/partdetail/20375-CL10A475KO8NNNC/C19666;;MLCC;16V;;±10%;7uF;603;X5R
-C19702;CL10A106KP8NNNC;Basic;Samsung electro-mechanics;11930829;$0.0054;$0.0032;;https://www.lcsc.com/partdetail/20411-CL10A106KP8NNNC/C19702;;MLCC;10V;;±10%;10uF;603;X5R
-C21117;CL10B333KB8NNNC;Basic;Samsung electro-mechanics;455286;$0.0033;$0.0021;;https://www.lcsc.com/partdetail/21829-CL10B333KB8NNNC/C21117;;MLCC;50V;;±10%;33nF;603;X7R
-C21120;CL10B224KA8NNNC;Basic;Samsung electro-mechanics;807294;$0.0054;$0.0035;;https://www.lcsc.com/partdetail/21832-CL10B224KA8NNNC/C21120;;MLCC;25V;;±10%;220nF;603;X7R
-C21122;CL10B223KB8NNNC;Basic;Samsung electro-mechanics;582653;$0.0032;$0.0020;;https://www.lcsc.com/partdetail/21834-CL10B223KB8NNNC/C21122;;MLCC;50V;;±10%;22nF;603;X7R
-C23630;CL10A225KO8NNNC;Basic;Samsung electro-mechanics;2502262;$0.0056;$0.0038;;https://www.lcsc.com/partdetail/24366-CL10A225KO8NNNC/C23630;;MLCC;16V;;±10%;2uF;603;X5R
-C23733;CL05A475MP5NRNC;Basic;Samsung electro-mechanics;859904;$0.0052;$0.0030;;https://www.lcsc.com/partdetail/24469-CL05A475MP5NRNC/C23733;;MLCC;10V;;±20%;7uF;402;X5R
-C24497;CL31B104KBCNNNC;Basic;Samsung electro-mechanics;1095430;$0.0135;$0.0077;;https://www.lcsc.com/partdetail/25237-CL31B104KBCNNNC/C24497;;MLCC;50V;;±10%;100nF;1206;X7R
-C28233;CL21B104KCFNNNE;Basic;Samsung electro-mechanics;1040370;$0.0055;$0.0044;;https://www.lcsc.com/partdetail/28983-CL21B104KCFNNNE/C28233;;MLCC;100V;;±10%;100nF;805;X7R
-C28260;CL21C222JBFNNNE;Basic;Samsung electro-mechanics;93678;$0.0287;$0.0156;;https://www.lcsc.com/partdetail/29010-CL21C222JBFNNNE/C28260;;MLCC;50V;;±5%;2nF;805;C0G
-C28323;CL21B105KBFNNNE;Basic;Samsung electro-mechanics;3774921;$0.0080;$0.0055;;https://www.lcsc.com/partdetail/29074-CL21B105KBFNNNE/C28323;;MLCC;50V;;±10%;1uF;805;X7R
-C29823;1206B475K500NT;Basic;Fh (guangdong Fenghua Advanced tech);508531;$0.0294;$0.0180;;https://www.lcsc.com/partdetail/30577-1206B475K500NT/C29823;;MLCC;50V;;±10%;7uF;1206;X7R
-C32949;CL05C100JB5NNNC;Basic;Samsung electro-mechanics;429835;$0.0047;$0.0030;;https://www.lcsc.com/partdetail/33914-CL05C100JB5NNNC/C32949;;MLCC;50V;;±5%;10pF;402;C0G
-C38523;CL10C120JB8NNNC;Basic;Samsung electro-mechanics;1198036;$0.0039;$0.0024;;https://www.lcsc.com/partdetail/39506-CL10C120JB8NNNC/C38523;;MLCC;50V;;±5%;12pF;603;C0G
-C45783;CL21A226MAQNNNE;Basic;Samsung electro-mechanics;2946079;$0.0215;$0.0131;;https://www.lcsc.com/partdetail/46786-CL21A226MAQNNNE/C45783;;MLCC;25V;;±20%;22uF;805;X5R
-C46653;CL21B102KBCNNNC;Basic;Samsung electro-mechanics;605480;$0.0074;$0.0042;;https://www.lcsc.com/partdetail/47657-CL21B102KBCNNNC/C46653;;MLCC;50V;;±10%;1nF;805;X7R
-C49678;CC0805KRX7R9BB104;Basic;Yageo;13749412;$0.0048;$0.0030;;https://www.lcsc.com/partdetail/Yageo-CC0805KRX7R9BB104/C49678;;MLCC;50V;;±10%;100nF;805;X7R
-C50254;CL31B225KBHNNNE;Basic;Samsung electro-mechanics;245596;$0.0264;$0.0164;;https://www.lcsc.com/partdetail/51263-CL31B225KBHNNNE/C50254;;MLCC;50V;;±10%;2uF;1206;X7R
-C52923;CL05A105KA5NQNC;Basic;Samsung electro-mechanics;8387725;$0.0025;$0.0014;;https://www.lcsc.com/partdetail/53938-CL05A105KA5NQNC/C52923;;MLCC;25V;;±10%;1uF;402;X5R
-C53134;CL21B473KBCNNNC;Basic;Samsung electro-mechanics;84249;$0.0102;$0.0058;;https://www.lcsc.com/partdetail/54150-CL21B473KBCNNNC/C53134;;MLCC;50V;;±10%;47nF;805;X7R
-C53987;0603B472K500NT;Basic;Fh (guangdong Fenghua Advanced tech);537368;$0.0028;$0.0017;;https://www.lcsc.com/partdetail/55004-0603B472K500NT/C53987;;MLCC;50V;;±10%;7nF;603;X7R
-C57112;0603B103K500NT;Basic;Fh (guangdong Fenghua Advanced tech);4969665;$0.0024;$0.0015;;https://www.lcsc.com/partdetail/58143-0603B103K500NT/C57112;;MLCC;50V;;±10%;10nF;603;X7R
-C59461;CL10A226MQ8NRNC;Basic;Samsung electro-mechanics;6688598;$0.0071;$0.0043;;https://www.lcsc.com/partdetail/60514-CL10A226MQ8NRNC/C59461;;MLCC;3V;;±20%;22uF;603;X5R
-C96123;CL31A476MPHNNNE;Basic;Samsung electro-mechanics;418542;$0.0699;$0.0420;;https://www.lcsc.com/partdetail/97327-CL31A476MPHNNNE/C96123;;MLCC;10V;;±20%;47uF;1206;X5R
-C96446;CL10A106MA8NRNC;Basic;Samsung electro-mechanics;4225016;$0.0147;$0.0090;;https://www.lcsc.com/partdetail/97651-CL10A106MA8NRNC/C96446;;MLCC;25V;;±20%;10uF;603;X5R
-C107145;CC0805KRX7R9BB221;Basic;Yageo;114819;$0.0050;$0.0032;;https://www.lcsc.com/partdetail/Yageo-CC0805KRX7R9BB221/C107145;;MLCC;50V;;±10%;220pF;805;X7R
-C307331;CL05B104KB54PNC;Basic;Samsung electro-mechanics;5404325;$0.0052;$0.0031;;https://www.lcsc.com/partdetail/291005-CL05B104KB54PNC/C307331;;MLCC;50V;;±10%;100nF;402;X7R
-C377773;CL21A225KBQNNNE;Basic;Samsung electro-mechanics;921256;$0.0148;$0.0085;;https://www.lcsc.com/partdetail/350246-CL21A225KBQNNNE/C377773;;MLCC;50V;;±10%;2uF;805;X5R
-C440198;GRM21BR61H106KE43L;Basic;Murata Electronics;1429229;$0.0669;$0.0378;;https://www.lcsc.com/partdetail/439567-GRM21BR61H106KE43L/C440198;;MLCC;50V;;±10%;10uF;805;X5R
-C1322360;0603B822K500NT;Basic;Fh (guangdong Fenghua Advanced tech);25181;$0.0030;$0.0017;;https://www.lcsc.com/partdetail/1413077-0603B822K500NT/C1322360;;MLCC;50V;;±10%;2nF;603;X7R
-C1980;4D03WGJ0472T5E;Basic;uni-royal(uniroyal elec);169765;$0.0056;$0.0036;;https://www.lcsc.com/partdetail/2332-4D03WGJ0472T5E/C1980;5mW;Resistor Networks;;±200ppm/℃;±5%;4.7k;603;
-C4109;0402WGF2001TCE;Basic;uni-royal(uniroyal elec);1717301;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/4516-0402WGF2001TCE/C4109;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;2k;402;
-C4177;0603WAF1801T5E;Basic;uni-royal(uniroyal elec);832305;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/4584-0603WAF1801T5E/C4177;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;1.8k;603;
-C4184;0603WAF2002T5E;Basic;uni-royal(uniroyal elec);6427666;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/4591-0603WAF2002T5E/C4184;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;20k;603;
-C4190;0603WAF2201T5E;Basic;uni-royal(uniroyal elec);4898669;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/4597-0603WAF2201T5E/C4190;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;2.2k;603;
-C4211;0603WAF3001T5E;Basic;uni-royal(uniroyal elec);2467743;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/4618-0603WAF3001T5E/C4211;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;3k;603;
-C4216;0603WAF3302T5E;Basic;uni-royal(uniroyal elec);596010;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/4623-0603WAF3302T5E/C4216;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;33k;603;
-C4260;0603WAF6201T5E;Basic;uni-royal(uniroyal elec);321238;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/4667-0603WAF6201T5E/C4260;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;6.2k;603;
-C4275;0603WAF750JT5E;Basic;uni-royal(uniroyal elec);3338849;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/4682-0603WAF750JT5E/C4275;100mW;Thick Film Resistors;75V;±200ppm/℃;±1%;75Ω;603;
-C4310;0805W8F1501T5E;Basic;uni-royal(uniroyal elec);821908;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/4717-0805W8F1501T5E/C4310;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;1.5k;805;
-C4328;0805W8F2002T5E;Basic;uni-royal(uniroyal elec);1753114;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/4735-0805W8F2002T5E/C4328;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;20k;805;
-C4382;0805W8F5601T5E;Basic;uni-royal(uniroyal elec);248787;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/4789-0805W8F5601T5E/C4382;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;5.6k;805;
-C4410;1206W4F1001T5E;Basic;uni-royal(uniroyal elec);1187078;$0.0029;$0.0019;;https://www.lcsc.com/partdetail/4817-1206W4F1001T5E/C4410;250mW;Thick Film Resistors;200V;;±1%;1k;1206;
-C7250;0603WAF1005T5E;Basic;uni-royal(uniroyal elec);169206;$0.0015;$0.0010;;https://www.lcsc.com/partdetail/7726-0603WAF1005T5E/C7250;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;10M;603;
-C8218;0603WAF2000T5E;Basic;uni-royal(uniroyal elec);2167118;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/8708-0603WAF2000T5E/C8218;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;200Ω;603;
-C11702;0402WGF1001TCE;Basic;uni-royal(uniroyal elec);10729563;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/12256-0402WGF1001TCE/C11702;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;1k;402;
-C13167;0603WAF2701T5E;Basic;uni-royal(uniroyal elec);1260951;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/13814-0603WAF2701T5E/C13167;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;2.7k;603;
-C17168;0402WGF0000TCE;Basic;uni-royal(uniroyal elec);5556475;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/17853-0402WGF0000TCE/C17168;5mW;Thick Film Resistors;50V;±800ppm/℃;±1%;0Ω;402;
-C17379;0805W8F1201T5E;Basic;uni-royal(uniroyal elec);1084194;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18067-0805W8F1201T5E/C17379;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;1.2k;805;
-C17408;0805W8F1000T5E;Basic;uni-royal(uniroyal elec);3050652;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18096-0805W8F1000T5E/C17408;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;100Ω;805;
-C17414;0805W8F1002T5E;Basic;uni-royal(uniroyal elec);9386008;$0.0017;$0.0010;;https://www.lcsc.com/partdetail/18102-0805W8F1002T5E/C17414;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;10k;805;
-C17415;0805W8F100JT5E;Basic;uni-royal(uniroyal elec);3170483;$0.0015;$0.0009;;https://www.lcsc.com/partdetail/18103-0805W8F100JT5E/C17415;125mW;Thick Film Resistors;150V;±200ppm/℃;±1%;10Ω;805;
-C17437;0805W8F1200T5E;Basic;uni-royal(uniroyal elec);824708;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18125-0805W8F1200T5E/C17437;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;120Ω;805;
-C17444;0805W8F1202T5E;Basic;uni-royal(uniroyal elec);214064;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/18132-0805W8F1202T5E/C17444;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;12k;805;
-C17470;0805W8F1503T5E;Basic;uni-royal(uniroyal elec);476813;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18158-0805W8F1503T5E/C17470;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;150k;805;
-C17471;0805W8F1500T5E;Basic;uni-royal(uniroyal elec);992841;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18159-0805W8F1500T5E/C17471;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;150Ω;805;
-C17475;0805W8F1502T5E;Basic;uni-royal(uniroyal elec);568245;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18163-0805W8F1502T5E/C17475;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;15k;805;
-C17477;0805W8F0000T5E;Basic;uni-royal(uniroyal elec);4128536;$0.0016;$0.0010;;https://www.lcsc.com/partdetail/18165-0805W8F0000T5E/C17477;125mW;Thick Film Resistors;150V;±800ppm/℃;±1%;0Ω;805;
-C17513;0805W8F1001T5E;Basic;uni-royal(uniroyal elec);10405357;$0.0017;$0.0010;;https://www.lcsc.com/partdetail/18201-0805W8F1001T5E/C17513;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;1k;805;
-C17514;0805W8F1004T5E;Basic;uni-royal(uniroyal elec);1735765;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18202-0805W8F1004T5E/C17514;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;1M;805;
-C17520;0805W8F2201T5E;Basic;uni-royal(uniroyal elec);1509431;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18208-0805W8F2201T5E/C17520;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;2.2k;805;
-C17521;0805W8F220KT5E;Basic;uni-royal(uniroyal elec);230937;$0.0029;$0.0018;;https://www.lcsc.com/partdetail/18209-0805W8F220KT5E/C17521;125mW;Thick Film Resistors;150V;±400ppm/℃;±1%;2.2Ω;805;
-C17526;0805W8F2401T5E;Basic;uni-royal(uniroyal elec);443853;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18214-0805W8F2401T5E/C17526;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;2.4k;805;
-C17530;0805W8F2701T5E;Basic;uni-royal(uniroyal elec);372344;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18218-0805W8F2701T5E/C17530;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;2.7k;805;
-C17539;0805W8F2003T5E;Basic;uni-royal(uniroyal elec);188019;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18227-0805W8F2003T5E/C17539;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;200k;805;
-C17540;0805W8F2000T5E;Basic;uni-royal(uniroyal elec);524116;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18228-0805W8F2000T5E/C17540;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;200Ω;805;
-C17544;0805W8F200JT5E;Basic;uni-royal(uniroyal elec);765224;$0.0017;$0.0010;;https://www.lcsc.com/partdetail/18232-0805W8F200JT5E/C17544;125mW;Thick Film Resistors;150V;±200ppm/℃;±1%;20Ω;805;
-C17556;0805W8F2203T5E;Basic;uni-royal(uniroyal elec);240810;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18244-0805W8F2203T5E/C17556;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;220k;805;
-C17557;0805W8F2200T5E;Basic;uni-royal(uniroyal elec);752201;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/18245-0805W8F2200T5E/C17557;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;220Ω;805;
-C17560;0805W8F2202T5E;Basic;uni-royal(uniroyal elec);738304;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/18248-0805W8F2202T5E/C17560;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;22k;805;
-C17561;0805W8F220JT5E;Basic;uni-royal(uniroyal elec);1043311;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18249-0805W8F220JT5E/C17561;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;22Ω;805;
-C17575;0805W8F2402T5E;Basic;uni-royal(uniroyal elec);208491;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/18263-0805W8F2402T5E/C17575;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;24k;805;
-C17593;0805W8F2702T5E;Basic;uni-royal(uniroyal elec);22371;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18281-0805W8F2702T5E/C17593;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;27k;805;
-C17604;0805W8F2001T5E;Basic;uni-royal(uniroyal elec);1157716;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18292-0805W8F2001T5E/C17604;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;2k;805;
-C17614;0805W8F3901T5E;Basic;uni-royal(uniroyal elec);156183;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18302-0805W8F3901T5E/C17614;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;3.9k;805;
-C17617;0805W8F3000T5E;Basic;uni-royal(uniroyal elec);488550;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18305-0805W8F3000T5E/C17617;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;300Ω;805;
-C17621;0805W8F3002T5E;Basic;uni-royal(uniroyal elec);325657;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18309-0805W8F3002T5E/C17621;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;30k;805;
-C17630;0805W8F3300T5E;Basic;uni-royal(uniroyal elec);1669742;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18318-0805W8F3300T5E/C17630;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;330Ω;805;
-C17633;0805W8F3302T5E;Basic;uni-royal(uniroyal elec);201559;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18321-0805W8F3302T5E/C17633;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;33k;805;
-C17634;0805W8F330JT5E;Basic;uni-royal(uniroyal elec);357139;$0.0016;$0.0010;;https://www.lcsc.com/partdetail/18322-0805W8F330JT5E/C17634;125mW;Thick Film Resistors;150V;±200ppm/℃;±1%;33Ω;805;
-C17655;0805W8F3900T5E;Basic;uni-royal(uniroyal elec);205153;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18343-0805W8F3900T5E/C17655;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;390Ω;805;
-C17661;0805W8F3001T5E;Basic;uni-royal(uniroyal elec);715920;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18349-0805W8F3001T5E/C17661;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;3k;805;
-C17673;0805W8F4701T5E;Basic;uni-royal(uniroyal elec);1986866;$0.0017;$0.0011;;https://www.lcsc.com/partdetail/18361-0805W8F4701T5E/C17673;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;4.7k;805;
-C17675;0805W8F470KT5E;Basic;uni-royal(uniroyal elec);308877;$0.0029;$0.0018;;https://www.lcsc.com/partdetail/18363-0805W8F470KT5E/C17675;125mW;Thick Film Resistors;150V;±200ppm/℃;±1%;4.7Ω;805;
-C17709;0805W8F4703T5E;Basic;uni-royal(uniroyal elec);576108;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18397-0805W8F4703T5E/C17709;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;470k;805;
-C17710;0805W8F4700T5E;Basic;uni-royal(uniroyal elec);746457;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18398-0805W8F4700T5E/C17710;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;470Ω;805;
-C17713;0805W8F4702T5E;Basic;uni-royal(uniroyal elec);545910;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18401-0805W8F4702T5E/C17713;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;47k;805;
-C17714;0805W8F470JT5E;Basic;uni-royal(uniroyal elec);466139;$0.0018;$0.0011;;https://www.lcsc.com/partdetail/18402-0805W8F470JT5E/C17714;125mW;Thick Film Resistors;150V;±200ppm/℃;±1%;47Ω;805;
-C17720;0805W8F499JT5E;Basic;uni-royal(uniroyal elec);234589;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18408-0805W8F499JT5E/C17720;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;49.9Ω;805;
-C17724;0805W8F510KT5E;Basic;uni-royal(uniroyal elec);216725;$0.0029;$0.0018;;https://www.lcsc.com/partdetail/18412-0805W8F510KT5E/C17724;125mW;Thick Film Resistors;150V;±400ppm/℃;±1%;5.1Ω;805;
-C17734;0805W8F5100T5E;Basic;uni-royal(uniroyal elec);772685;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/18422-0805W8F5100T5E/C17734;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;510Ω;805;
-C17737;0805W8F5102T5E;Basic;uni-royal(uniroyal elec);408819;$0.0019;$0.0012;;https://www.lcsc.com/partdetail/18425-0805W8F5102T5E/C17737;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;51k;805;
-C17738;0805W8F510JT5E;Basic;uni-royal(uniroyal elec);754382;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18426-0805W8F510JT5E/C17738;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;51Ω;805;
-C17772;0805W8F6801T5E;Basic;uni-royal(uniroyal elec);485709;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18460-0805W8F6801T5E/C17772;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;6.8k;805;
-C17798;0805W8F6800T5E;Basic;uni-royal(uniroyal elec);257376;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18486-0805W8F6800T5E/C17798;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;680Ω;805;
-C17801;0805W8F6802T5E;Basic;uni-royal(uniroyal elec);151665;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18489-0805W8F6802T5E/C17801;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;68k;805;
-C17828;0805W8F8201T5E;Basic;uni-royal(uniroyal elec);84162;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/18516-0805W8F8201T5E/C17828;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;8.2k;805;
-C17887;1206W4F3000T5E;Basic;uni-royal(uniroyal elec);155720;$0.0032;$0.0020;;https://www.lcsc.com/partdetail/18575-1206W4F3000T5E/C17887;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;300Ω;1206;
-C17888;1206W4F0000T5E;Basic;uni-royal(uniroyal elec);2125316;$0.0029;$0.0016;;https://www.lcsc.com/partdetail/18576-1206W4F0000T5E/C17888;250mW;Thick Film Resistors;200V;±800ppm/℃;±1%;0Ω;1206;
-C17900;1206W4F1003T5E;Basic;uni-royal(uniroyal elec);1362263;$0.0028;$0.0016;;https://www.lcsc.com/partdetail/18588-1206W4F1003T5E/C17900;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;100k;1206;
-C17901;1206W4F1000T5E;Basic;uni-royal(uniroyal elec);1929927;$0.0027;$0.0016;;https://www.lcsc.com/partdetail/18589-1206W4F1000T5E/C17901;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;100Ω;1206;
-C17902;1206W4F1002T5E;Basic;uni-royal(uniroyal elec);1889584;$0.0030;$0.0018;;https://www.lcsc.com/partdetail/18590-1206W4F1002T5E/C17902;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;10k;1206;
-C17903;1206W4F100JT5E;Basic;uni-royal(uniroyal elec);1006704;$0.0029;$0.0018;;https://www.lcsc.com/partdetail/18591-1206W4F100JT5E/C17903;250mW;Thick Film Resistors;200V;±400ppm/℃;±1%;10Ω;1206;
-C17909;1206W4F1200T5E;Basic;uni-royal(uniroyal elec);262696;$0.0031;$0.0019;;https://www.lcsc.com/partdetail/18597-1206W4F1200T5E/C17909;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;120Ω;1206;
-C17927;1206W4F1004T5E;Basic;uni-royal(uniroyal elec);4029451;$0.0026;$0.0017;;https://www.lcsc.com/partdetail/18615-1206W4F1004T5E/C17927;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;1M;1206;
-C17928;1206W4F100KT5E;Basic;uni-royal(uniroyal elec);301035;$0.0048;$0.0026;;https://www.lcsc.com/partdetail/18616-1206W4F100KT5E/C17928;250mW;Thick Film Resistors;200V;±800ppm/℃;±1%;1Ω;1206;
-C17936;1206W4F4701T5E;Basic;uni-royal(uniroyal elec);449862;$0.0031;$0.0019;;https://www.lcsc.com/partdetail/18624-1206W4F4701T5E/C17936;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;4.7k;1206;
-C17944;1206W4F2001T5E;Basic;uni-royal(uniroyal elec);617479;$0.0031;$0.0019;;https://www.lcsc.com/partdetail/18632-1206W4F2001T5E/C17944;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;2k;1206;
-C17955;1206W4F200JT5E;Basic;uni-royal(uniroyal elec);441130;$0.0031;$0.0017;;https://www.lcsc.com/partdetail/18643-1206W4F200JT5E/C17955;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;20Ω;1206;
-C17958;1206W4F220JT5E;Basic;uni-royal(uniroyal elec);246636;$0.0032;$0.0018;;https://www.lcsc.com/partdetail/18646-1206W4F220JT5E/C17958;250mW;Thick Film Resistors;200V;±100ppm/℃;±1%;22Ω;1206;
-C20197;4D03WGJ0102T5E;Basic;uni-royal(uniroyal elec);476279;$0.0053;$0.0030;;https://www.lcsc.com/partdetail/20907-4D03WGJ0102T5E/C20197;5mW;Resistor Networks;;±200ppm/℃;±5%;1k;603;
-C21189;0603WAF0000T5E;Basic;uni-royal(uniroyal elec);6478193;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/21903-0603WAF0000T5E/C21189;100mW;Thick Film Resistors;75V;;±1%;0Ω;603;
-C21190;0603WAF1001T5E;Basic;uni-royal(uniroyal elec);22268456;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/21904-0603WAF1001T5E/C21190;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;1k;603;
-C22765;0603WAF1201T5E;Basic;uni-royal(uniroyal elec);1059687;$0.0011;$0.0008;;https://www.lcsc.com/partdetail/23492-0603WAF1201T5E/C22765;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;1.2k;603;
-C22775;0603WAF1000T5E;Basic;uni-royal(uniroyal elec);5682478;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23502-0603WAF1000T5E/C22775;100mW;Thick Film Resistors;75V;±200ppm/℃;±1%;100Ω;603;
-C22787;0603WAF1200T5E;Basic;uni-royal(uniroyal elec);481799;$0.0011;$0.0008;;https://www.lcsc.com/partdetail/23514-0603WAF1200T5E/C22787;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;120Ω;603;
-C22790;0603WAF1202T5E;Basic;uni-royal(uniroyal elec);900158;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23517-0603WAF1202T5E/C22790;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;12k;603;
-C22797;0603WAF1302T5E;Basic;uni-royal(uniroyal elec);249604;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23524-0603WAF1302T5E/C22797;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;13k;603;
-C22807;0603WAF1503T5E;Basic;uni-royal(uniroyal elec);513769;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23534-0603WAF1503T5E/C22807;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;150k;603;
-C22808;0603WAF1500T5E;Basic;uni-royal(uniroyal elec);791995;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23535-0603WAF1500T5E/C22808;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;150Ω;603;
-C22809;0603WAF1502T5E;Basic;uni-royal(uniroyal elec);891773;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23536-0603WAF1502T5E/C22809;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;15k;603;
-C22843;0603WAF1501T5E;Basic;uni-royal(uniroyal elec);813377;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23570-0603WAF1501T5E/C22843;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;1.5k;603;
-C22859;0603WAF100JT5E;Basic;uni-royal(uniroyal elec);4341401;$0.0009;$0.0006;;https://www.lcsc.com/partdetail/23586-0603WAF100JT5E/C22859;100mW;Thick Film Resistors;75V;±400ppm/℃;±1%;10Ω;603;
-C22935;0603WAF1004T5E;Basic;uni-royal(uniroyal elec);2188044;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23662-0603WAF1004T5E/C22935;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;1M;603;
-C22936;0603WAF100KT5E;Basic;uni-royal(uniroyal elec);1299521;$0.0015;$0.0010;;https://www.lcsc.com/partdetail/23663-0603WAF100KT5E/C22936;100mW;Thick Film Resistors;75V;±400ppm/℃;±1%;1Ω;603;
-C22939;0603WAF220KT5E;Basic;uni-royal(uniroyal elec);645893;$0.0016;$0.0010;;https://www.lcsc.com/partdetail/23666-0603WAF220KT5E/C22939;100mW;Thick Film Resistors;75V;±400ppm/℃;±1%;2.2Ω;603;
-C22940;0603WAF2401T5E;Basic;uni-royal(uniroyal elec);736980;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23667-0603WAF2401T5E/C22940;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;2.4k;603;
-C22950;0603WAF200JT5E;Basic;uni-royal(uniroyal elec);936106;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23677-0603WAF200JT5E/C22950;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;20Ω;603;
-C22961;0603WAF2203T5E;Basic;uni-royal(uniroyal elec);743215;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23688-0603WAF2203T5E/C22961;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;220k;603;
-C22962;0603WAF2200T5E;Basic;uni-royal(uniroyal elec);2460185;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23689-0603WAF2200T5E/C22962;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;220Ω;603;
-C22966;0603WAF2700T5E;Basic;uni-royal(uniroyal elec);350572;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23693-0603WAF2700T5E/C22966;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;270Ω;603;
-C22967;0603WAF2702T5E;Basic;uni-royal(uniroyal elec);733724;$0.0011;$0.0008;;https://www.lcsc.com/partdetail/23694-0603WAF2702T5E/C22967;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;27k;603;
-C22975;0603WAF2001T5E;Basic;uni-royal(uniroyal elec);7871788;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23702-0603WAF2001T5E/C22975;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;2k;603;
-C22976;0603WAF2004T5E;Basic;uni-royal(uniroyal elec);655492;$0.0014;$0.0009;;https://www.lcsc.com/partdetail/23703-0603WAF2004T5E/C22976;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;2M;603;
-C22977;0603WAF200KT5E;Basic;uni-royal(uniroyal elec);961698;$0.0015;$0.0009;;https://www.lcsc.com/partdetail/23704-0603WAF200KT5E/C22977;100mW;Thick Film Resistors;75V;±200ppm/℃;±1%;2Ω;603;
-C22978;0603WAF3301T5E;Basic;uni-royal(uniroyal elec);2492065;$0.0009;$0.0006;;https://www.lcsc.com/partdetail/23705-0603WAF3301T5E/C22978;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;3.3k;603;
-C22980;0603WAF3601T5E;Basic;uni-royal(uniroyal elec);361820;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23707-0603WAF3601T5E/C22980;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;3.6k;603;
-C22984;0603WAF3002T5E;Basic;uni-royal(uniroyal elec);1629178;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23711-0603WAF3002T5E/C22984;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;30k;603;
-C23018;0603WAF3901T5E;Basic;uni-royal(uniroyal elec);501816;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23745-0603WAF3901T5E/C23018;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;3.9k;603;
-C23024;0603WAF3003T5E;Basic;uni-royal(uniroyal elec);848885;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23751-0603WAF3003T5E/C23024;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;300k;603;
-C23025;0603WAF3000T5E;Basic;uni-royal(uniroyal elec);573869;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23752-0603WAF3000T5E/C23025;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;300Ω;603;
-C23046;0603WAF4991T5E;Basic;uni-royal(uniroyal elec);703827;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23773-0603WAF4991T5E/C23046;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;4.99k;603;
-C23137;0603WAF3303T5E;Basic;uni-royal(uniroyal elec);989173;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23864-0603WAF3303T5E/C23137;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;330k;603;
-C23138;0603WAF3300T5E;Basic;uni-royal(uniroyal elec);1996274;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23865-0603WAF3300T5E/C23138;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;330Ω;603;
-C23140;0603WAF330JT5E;Basic;uni-royal(uniroyal elec);2162475;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23867-0603WAF330JT5E/C23140;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;33Ω;603;
-C23151;0603WAF3900T5E;Basic;uni-royal(uniroyal elec);376678;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23878-0603WAF3900T5E/C23151;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;390Ω;603;
-C23153;0603WAF3902T5E;Basic;uni-royal(uniroyal elec);713494;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23880-0603WAF3902T5E/C23153;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;39k;603;
-C23162;0603WAF4701T5E;Basic;uni-royal(uniroyal elec);5354624;$0.0011;$0.0006;;https://www.lcsc.com/partdetail/23889-0603WAF4701T5E/C23162;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;4.7k;603;
-C23164;0603WAF470KT5E;Basic;uni-royal(uniroyal elec);533286;$0.0015;$0.0009;;https://www.lcsc.com/partdetail/23891-0603WAF470KT5E/C23164;100mW;Thick Film Resistors;75V;±400ppm/℃;±1%;4.7Ω;603;
-C23178;0603WAF4703T5E;Basic;uni-royal(uniroyal elec);932143;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/23905-0603WAF4703T5E/C23178;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;470k;603;
-C23179;0603WAF4700T5E;Basic;uni-royal(uniroyal elec);1929158;$0.0011;$0.0008;;https://www.lcsc.com/partdetail/23906-0603WAF4700T5E/C23179;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;470Ω;603;
-C23182;0603WAF470JT5E;Basic;uni-royal(uniroyal elec);1033102;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23909-0603WAF470JT5E/C23182;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;47Ω;603;
-C23184;0603WAF4992T5E;Basic;uni-royal(uniroyal elec);731793;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23911-0603WAF4992T5E/C23184;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;49.9k;603;
-C23185;0603WAF499JT5E;Basic;uni-royal(uniroyal elec);681563;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23912-0603WAF499JT5E/C23185;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;49.9Ω;603;
-C23186;0603WAF5101T5E;Basic;uni-royal(uniroyal elec);6597970;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23913-0603WAF5101T5E/C23186;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;5.1k;603;
-C23189;0603WAF5601T5E;Basic;uni-royal(uniroyal elec);889039;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23916-0603WAF5601T5E/C23189;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;5.6k;603;
-C23192;0603WAF5103T5E;Basic;uni-royal(uniroyal elec);962795;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23919-0603WAF5103T5E/C23192;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;510k;603;
-C23193;0603WAF5100T5E;Basic;uni-royal(uniroyal elec);2393578;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23920-0603WAF5100T5E/C23193;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;510Ω;603;
-C23196;0603WAF5102T5E;Basic;uni-royal(uniroyal elec);1463060;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23923-0603WAF5102T5E/C23196;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;51k;603;
-C23197;0603WAF510JT5E;Basic;uni-royal(uniroyal elec);691394;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23924-0603WAF510JT5E/C23197;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;51Ω;603;
-C23204;0603WAF5600T5E;Basic;uni-royal(uniroyal elec);438943;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23931-0603WAF5600T5E/C23204;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;560Ω;603;
-C23206;0603WAF5602T5E;Basic;uni-royal(uniroyal elec);851868;$0.0011;$0.0008;;https://www.lcsc.com/partdetail/23933-0603WAF5602T5E/C23206;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;56k;603;
-C23212;0603WAF6801T5E;Basic;uni-royal(uniroyal elec);977441;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23939-0603WAF6801T5E/C23212;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;6.8k;603;
-C23228;0603WAF6800T5E;Basic;uni-royal(uniroyal elec);752639;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23955-0603WAF6800T5E/C23228;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;680Ω;603;
-C23231;0603WAF6802T5E;Basic;uni-royal(uniroyal elec);331315;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23958-0603WAF6802T5E/C23231;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;68k;603;
-C23234;0603WAF7501T5E;Basic;uni-royal(uniroyal elec);416255;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23961-0603WAF7501T5E/C23234;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;7.5k;603;
-C23242;0603WAF7502T5E;Basic;uni-royal(uniroyal elec);1064539;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23969-0603WAF7502T5E/C23242;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;75k;603;
-C23253;0603WAF8200T5E;Basic;uni-royal(uniroyal elec);355353;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23980-0603WAF8200T5E/C23253;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;820Ω;603;
-C23254;0603WAF8202T5E;Basic;uni-royal(uniroyal elec);367271;$0.0011;$0.0007;;https://www.lcsc.com/partdetail/23981-0603WAF8202T5E/C23254;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;82k;603;
-C23260;0603WAF9101T5E;Basic;uni-royal(uniroyal elec);390760;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/23987-0603WAF9101T5E/C23260;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;9.1k;603;
-C23345;0603WAF220JT5E;Basic;uni-royal(uniroyal elec);2443605;$0.0009;$0.0006;;https://www.lcsc.com/partdetail/24078-0603WAF220JT5E/C23345;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;22Ω;603;
-C23352;0603WAF2402T5E;Basic;uni-royal(uniroyal elec);757764;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/24085-0603WAF2402T5E/C23352;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;24k;603;
-C25076;0402WGF1000TCE;Basic;uni-royal(uniroyal elec);2723279;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25819-0402WGF1000TCE/C25076;5mW;Thick Film Resistors;50V;±200ppm/℃;±1%;100Ω;402;
-C25077;0402WGF100JTCE;Basic;uni-royal(uniroyal elec);2001060;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25820-0402WGF100JTCE/C25077;5mW;Thick Film Resistors;50V;±200ppm/℃;±1%;10Ω;402;
-C25079;0402WGF1200TCE;Basic;uni-royal(uniroyal elec);452240;$0.0006;$0.0004;;https://www.lcsc.com/partdetail/25822-0402WGF1200TCE/C25079;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;120Ω;402;
-C25087;0402WGF2000TCE;Basic;uni-royal(uniroyal elec);696124;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25830-0402WGF2000TCE/C25087;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;200Ω;402;
-C25091;0402WGF2200TCE;Basic;uni-royal(uniroyal elec);735225;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25834-0402WGF2200TCE/C25091;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;220Ω;402;
-C25092;0402WGF220JTCE;Basic;uni-royal(uniroyal elec);2519468;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25835-0402WGF220JTCE/C25092;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;22Ω;402;
-C25104;0402WGF3300TCE;Basic;uni-royal(uniroyal elec);602133;$0.0006;$0.0004;;https://www.lcsc.com/partdetail/25847-0402WGF3300TCE/C25104;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;330Ω;402;
-C25105;0402WGF330JTCE;Basic;uni-royal(uniroyal elec);1664589;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25848-0402WGF330JTCE/C25105;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;33Ω;402;
-C25117;0402WGF4700TCE;Basic;uni-royal(uniroyal elec);1532575;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25860-0402WGF4700TCE/C25117;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;470Ω;402;
-C25120;0402WGF499JTCE;Basic;uni-royal(uniroyal elec);621856;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25863-0402WGF499JTCE/C25120;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;49.9Ω;402;
-C25123;0402WGF5100TCE;Basic;uni-royal(uniroyal elec);1113640;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/25866-0402WGF5100TCE/C25123;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;510Ω;402;
-C25197;0603WAF510KT5E;Basic;uni-royal(uniroyal elec);1040962;$0.0016;$0.0010;;https://www.lcsc.com/partdetail/25940-0603WAF510KT5E/C25197;100mW;Thick Film Resistors;75V;±200ppm/℃;±1%;5.1Ω;603;
-C25271;0805W8F100KT5E;Basic;uni-royal(uniroyal elec);563720;$0.0031;$0.0019;;https://www.lcsc.com/partdetail/26014-0805W8F100KT5E/C25271;125mW;Thick Film Resistors;150V;±400ppm/℃;±1%;1Ω;805;
-C25334;1206W4F100LT5E;Basic;uni-royal(uniroyal elec);276597;$0.0048;$0.0025;;https://www.lcsc.com/partdetail/26077-1206W4F100LT5E/C25334;250mW;Thick Film Resistors;200V;±800ppm/℃;±1%;;1206;
-C25741;0402WGF1003TCE;Basic;uni-royal(uniroyal elec);5554540;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26484-0402WGF1003TCE/C25741;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;100k;402;
-C25744;0402WGF1002TCE;Basic;uni-royal(uniroyal elec);6791375;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26487-0402WGF1002TCE/C25744;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;10k;402;
-C25752;0402WGF1202TCE;Basic;uni-royal(uniroyal elec);511691;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26495-0402WGF1202TCE/C25752;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;12k;402;
-C25756;0402WGF1502TCE;Basic;uni-royal(uniroyal elec);894489;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26499-0402WGF1502TCE/C25756;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;15k;402;
-C25764;0402WGF2003TCE;Basic;uni-royal(uniroyal elec);920166;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26507-0402WGF2003TCE/C25764;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;200k;402;
-C25765;0402WGF2002TCE;Basic;uni-royal(uniroyal elec);1754163;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26508-0402WGF2002TCE/C25765;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;20k;402;
-C25768;0402WGF2202TCE;Basic;uni-royal(uniroyal elec);670319;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26511-0402WGF2202TCE/C25768;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;22k;402;
-C25779;0402WGF3302TCE;Basic;uni-royal(uniroyal elec);703951;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26522-0402WGF3302TCE/C25779;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;33k;402;
-C25792;0402WGF4702TCE;Basic;uni-royal(uniroyal elec);1562186;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26535-0402WGF4702TCE/C25792;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;47k;402;
-C25794;0402WGF5102TCE;Basic;uni-royal(uniroyal elec);1006704;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26537-0402WGF5102TCE/C25794;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;51k;402;
-C25803;0603WAF1003T5E;Basic;uni-royal(uniroyal elec);7154504;$0.0010;$0.0005;;https://www.lcsc.com/partdetail/26546-0603WAF1003T5E/C25803;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;100k;603;
-C25804;0603WAF1002T5E;Basic;uni-royal(uniroyal elec);42545821;$0.0009;$0.0006;;https://www.lcsc.com/partdetail/26547-0603WAF1002T5E/C25804;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;10k;603;
-C25808;0603WAF1203T5E;Basic;uni-royal(uniroyal elec);695025;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/26551-0603WAF1203T5E/C25808;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;120k;603;
-C25810;0603WAF1802T5E;Basic;uni-royal(uniroyal elec);539941;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/26553-0603WAF1802T5E/C25810;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;18k;603;
-C25811;0603WAF2003T5E;Basic;uni-royal(uniroyal elec);1730847;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/26554-0603WAF2003T5E/C25811;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;200k;603;
-C25819;0603WAF4702T5E;Basic;uni-royal(uniroyal elec);2450946;$0.0010;$0.0006;;https://www.lcsc.com/partdetail/26562-0603WAF4702T5E/C25819;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;47k;603;
-C25867;0402WGF1501TCE;Basic;uni-royal(uniroyal elec);792401;$0.0006;$0.0004;;https://www.lcsc.com/partdetail/26610-0402WGF1501TCE/C25867;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;1.5k;402;
-C25879;0402WGF2201TCE;Basic;uni-royal(uniroyal elec);1196008;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26622-0402WGF2201TCE/C25879;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;2.2k;402;
-C25890;0402WGF3301TCE;Basic;uni-royal(uniroyal elec);994239;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26633-0402WGF3301TCE/C25890;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;3.3k;402;
-C25900;0402WGF4701TCE;Basic;uni-royal(uniroyal elec);5556068;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26643-0402WGF4701TCE/C25900;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;4.7k;402;
-C25905;0402WGF5101TCE;Basic;uni-royal(uniroyal elec);2593234;$0.0005;$0.0003;;https://www.lcsc.com/partdetail/26648-0402WGF5101TCE/C25905;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;5.1k;402;
-C25981;0603WAF8201T5E;Basic;uni-royal(uniroyal elec);615185;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/26724-0603WAF8201T5E/C25981;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;8.2k;603;
-C26010;0805W8F3301T5E;Basic;uni-royal(uniroyal elec);729877;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/26753-0805W8F3301T5E/C26010;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;3.3k;805;
-C26083;0402WGF1004TCE;Basic;uni-royal(uniroyal elec);1348738;$0.0006;$0.0003;;https://www.lcsc.com/partdetail/26826-0402WGF1004TCE/C26083;5mW;Thick Film Resistors;50V;±100ppm/℃;±1%;1M;402;
-C27834;0805W8F5101T5E;Basic;uni-royal(uniroyal elec);1303388;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/28584-0805W8F5101T5E/C27834;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;5.1k;805;
-C28636;0805W8F5600T5E;Basic;uni-royal(uniroyal elec);218295;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/29388-0805W8F5600T5E/C28636;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;560Ω;805;
-C29718;4D03WGJ0103T5E;Basic;uni-royal(uniroyal elec);876783;$0.0055;$0.0035;;https://www.lcsc.com/partdetail/30472-4D03WGJ0103T5E/C29718;5mW;Resistor Networks;;±200ppm/℃;±5%;10k;603;
-C31850;0603WAF2202T5E;Basic;uni-royal(uniroyal elec);1651995;$0.0010;$0.0007;;https://www.lcsc.com/partdetail/32812-0603WAF2202T5E/C31850;100mW;Thick Film Resistors;75V;±100ppm/℃;±1%;22k;603;
-C149504;0805W8F1003T5E;Basic;uni-royal(uniroyal elec);2708006;$0.0018;$0.0012;;https://www.lcsc.com/partdetail/160838-0805W8F1003T5E/C149504;125mW;Thick Film Resistors;150V;±100ppm/℃;±1%;100k;805;
+﻿JLCPCB Part #,MFR Part #,Library,Manufacturer,Stock,Price (1pc),Price (100pcs),Price (1000pcs),Datasheet URL,Power Rating,Type,Voltage Rating,Temperature Coefficient,Tolerance,Value,Footprint,Dielectric
+C1523,0402B102K500NT,Basic,Fh (guangdong Fenghua Advanced tech),1815989,$0.0010,$0.0005,,https://www.lcsc.com/partdetail/1875-0402B102K500NT/C1523,,MLCC,50V,,±10%,1nF,0402,X7R
+C1525,CL05B104KO5NNNC,Basic,Samsung electro-mechanics,28052657,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/1877-CL05B104KO5NNNC/C1525,,MLCC,16V,,±10%,100nF,0402,X7R
+C1530,0402B221K500NT,Basic,Fh (guangdong Fenghua Advanced tech),487769,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/1882-0402B221K500NT/C1530,,MLCC,50V,,±10%,220pF,0402,X7R
+C1532,0402B223K500NT,Basic,Fh (guangdong Fenghua Advanced tech),346409,$0.0017,$0.0010,,https://www.lcsc.com/partdetail/1884-0402B223K500NT/C1532,,MLCC,50V,,±10%,22nF,0402,X7R
+C1538,0402B472K500NT,Basic,Fh (guangdong Fenghua Advanced tech),486281,$0.0010,$0.0005,,https://www.lcsc.com/partdetail/1890-0402B472K500NT/C1538,,MLCC,50V,,±10%,7nF,0402,X7R
+C1546,0402CG101J500NT,Basic,Fh (guangdong Fenghua Advanced tech),2293072,$0.0009,$0.0005,,https://www.lcsc.com/partdetail/1898-0402CG101J500NT/C1546,,MLCC,50V,,±5%,100pF,0402,C0G
+C1547,0402CG120J500NT,Basic,Fh (guangdong Fenghua Advanced tech),791408,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/1899-0402CG120J500NT/C1547,,MLCC,50V,,±5%,12pF,0402,C0G
+C1548,0402CG150J500NT,Basic,Fh (guangdong Fenghua Advanced tech),841133,$0.0009,$0.0005,,https://www.lcsc.com/partdetail/1900-0402CG150J500NT/C1548,,MLCC,50V,,±5%,15pF,0402,C0G
+C1549,0402CG180J500NT,Basic,Fh (guangdong Fenghua Advanced tech),798856,$0.0010,$0.0005,,https://www.lcsc.com/partdetail/1901-0402CG180J500NT/C1549,,MLCC,50V,,±5%,18pF,0402,C0G
+C1554,0402CG200J500NT,Basic,Fh (guangdong Fenghua Advanced tech),1651774,$0.0009,$0.0005,,https://www.lcsc.com/partdetail/1906-0402CG200J500NT/C1554,,MLCC,50V,,±5%,20pF,0402,C0G
+C1555,0402CG220J500NT,Basic,Fh (guangdong Fenghua Advanced tech),1672984,$0.0010,$0.0005,,https://www.lcsc.com/partdetail/1907-0402CG220J500NT/C1555,,MLCC,50V,,±5%,22pF,0402,C0G
+C1562,0402CG330J500NT,Basic,Fh (guangdong Fenghua Advanced tech),1078045,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/1914-0402CG330J500NT/C1562,,MLCC,50V,,±5%,33pF,0402,C0G
+C1567,0402CG470J500NT,Basic,Fh (guangdong Fenghua Advanced tech),422581,$0.0011,$0.0006,,https://www.lcsc.com/partdetail/1919-0402CG470J500NT/C1567,,MLCC,50V,,±5%,47pF,0402,C0G
+C1588,CL10B102KB8NNNC,Basic,Samsung electro-mechanics,4549685,$0.0028,$0.0017,,https://www.lcsc.com/partdetail/1940-CL10B102KB8NNNC/C1588,,MLCC,50V,,±10%,1nF,0603,X7R
+C1594,0603B151K500NT,Basic,Fh (guangdong Fenghua Advanced tech),244678,$0.0026,$0.0016,,https://www.lcsc.com/partdetail/1946-0603B151K500NT/C1594,,MLCC,50V,,±10%,150pF,0603,X7R
+C1603,CL10B221KB8NNNC,Basic,Samsung electro-mechanics,271634,$0.0049,$0.0032,,https://www.lcsc.com/partdetail/1955-CL10B221KB8NNNC/C1603,,MLCC,50V,,±10%,220pF,0603,X7R
+C1604,0603B222K500NT,Basic,Fh (guangdong Fenghua Advanced tech),1090984,$0.0026,$0.0016,,https://www.lcsc.com/partdetail/1956-0603B222K500NT/C1604,,MLCC,50V,,±10%,2nF,0603,X7R
+C1613,CL10B332KB8NNNC,Basic,Samsung electro-mechanics,174081,$0.0047,$0.0031,,https://www.lcsc.com/partdetail/1965-CL10B332KB8NNNC/C1613,,MLCC,50V,,±10%,3nF,0603,X7R
+C1620,0603B471K500NT,Basic,Fh (guangdong Fenghua Advanced tech),861441,$0.0025,$0.0016,,https://www.lcsc.com/partdetail/1972-0603B471K500NT/C1620,,MLCC,50V,,±10%,470pF,0603,X7R
+C1622,CL10B473KB8NNNC,Basic,Samsung electro-mechanics,181509,$0.0051,$0.0036,,https://www.lcsc.com/partdetail/1974-CL10B473KB8NNNC/C1622,,MLCC,50V,,±10%,47nF,0603,X7R
+C1623,CL10B474KA8NNNC,Basic,Samsung electro-mechanics,487693,$0.0067,$0.0041,,https://www.lcsc.com/partdetail/1975-CL10B474KA8NNNC/C1623,,MLCC,25V,,±10%,470nF,0603,X7R
+C1631,0603B682K500NT,Basic,Fh (guangdong Fenghua Advanced tech),240852,$0.0029,$0.0018,,https://www.lcsc.com/partdetail/1983-0603B682K500NT/C1631,,MLCC,50V,,±10%,8nF,0603,X7R
+C1634,CL10C100JB8NNNC,Basic,Samsung electro-mechanics,871421,$0.0042,$0.0029,,https://www.lcsc.com/partdetail/1986-CL10C100JB8NNNC/C1634,,MLCC,50V,,±5%,10pF,0603,C0G
+C1644,CL10C150JB8NNNC,Basic,Samsung electro-mechanics,463768,$0.0045,$0.0034,,https://www.lcsc.com/partdetail/1996-CL10C150JB8NNNC/C1644,,MLCC,50V,,±5%,15pF,0603,C0G
+C1647,CL10C180JB8NNNC,Basic,Samsung electro-mechanics,261778,$0.0040,$0.0026,,https://www.lcsc.com/partdetail/1999-CL10C180JB8NNNC/C1647,,MLCC,50V,,±5%,18pF,0603,C0G
+C1648,CL10C200JB8NNNC,Basic,Samsung electro-mechanics,1380888,$0.0041,$0.0028,,https://www.lcsc.com/partdetail/2000-CL10C200JB8NNNC/C1648,,MLCC,50V,,±5%,20pF,0603,C0G
+C1653,CL10C220JB8NNNC,Basic,Samsung electro-mechanics,1994984,$0.0038,$0.0025,,https://www.lcsc.com/partdetail/2005-CL10C220JB8NNNC/C1653,,MLCC,50V,,±5%,22pF,0603,C0G
+C1658,0603CG300J500NT,Basic,Fh (guangdong Fenghua Advanced tech),461205,$0.0030,$0.0018,,https://www.lcsc.com/partdetail/2010-0603CG300J500NT/C1658,,MLCC,50V,,±5%,30pF,0603,C0G
+C1663,CL10C330JB8NNNC,Basic,Samsung electro-mechanics,785172,$0.0047,$0.0033,,https://www.lcsc.com/partdetail/2015-CL10C330JB8NNNC/C1663,,MLCC,50V,,±5%,33pF,0603,C0G
+C1664,CL10C331JB8NNNC,Basic,Samsung electro-mechanics,631141,$0.0028,$0.0016,,https://www.lcsc.com/partdetail/2016-CL10C331JB8NNNC/C1664,,MLCC,50V,,±5%,330pF,0603,C0G
+C1671,CL10C470JB8NNNC,Basic,Samsung electro-mechanics,799554,$0.0040,$0.0027,,https://www.lcsc.com/partdetail/2023-CL10C470JB8NNNC/C1671,,MLCC,50V,,±5%,47pF,0603,C0G
+C1710,CL21B103KBANNNC,Basic,Samsung electro-mechanics,1470749,$0.0059,$0.0035,,https://www.lcsc.com/partdetail/2062-CL21B103KBANNNC/C1710,,MLCC,50V,,±10%,10nF,0805,X7R
+C1729,CL21B223KBANNNC,Basic,Samsung electro-mechanics,99841,$0.0077,$0.0053,,https://www.lcsc.com/partdetail/2081-CL21B223KBANNNC/C1729,,MLCC,50V,,±10%,22nF,0805,X7R
+C1739,0805B333K500NT,Basic,Fh (guangdong Fenghua Advanced tech),98259,$0.0073,$0.0047,,https://www.lcsc.com/partdetail/2091-0805B333K500NT/C1739,,MLCC,50V,,±10%,33nF,0805,X7R
+C1743,0805B471K500NT,Basic,Fh (guangdong Fenghua Advanced tech),226357,$0.0046,$0.0031,,https://www.lcsc.com/partdetail/2095-0805B471K500NT/C1743,,MLCC,50V,,±10%,470pF,0805,X7R
+C1744,0805B472K500NT,Basic,Fh (guangdong Fenghua Advanced tech),288954,$0.0047,$0.0030,,https://www.lcsc.com/partdetail/2096-0805B472K500NT/C1744,,MLCC,50V,,±10%,7nF,0805,X7R
+C1779,CL21A475KAQNNNE,Basic,Samsung electro-mechanics,1954760,$0.0104,$0.0056,,https://www.lcsc.com/partdetail/2131-CL21A475KAQNNNE/C1779,,MLCC,25V,,±10%,7uF,0805,X5R
+C1790,CL21C101JBANNNC,Basic,Samsung electro-mechanics,576952,$0.0074,$0.0040,,https://www.lcsc.com/partdetail/2142-CL21C101JBANNNC/C1790,,MLCC,50V,,±5%,100pF,0805,C0G
+C1798,CL21C200JBANNNC,Basic,Samsung electro-mechanics,250628,$0.0127,$0.0076,,https://www.lcsc.com/partdetail/2150-CL21C200JBANNNC/C1798,,MLCC,50V,,±5%,20pF,0805,C0G
+C1804,CL21C220JBANNNC,Basic,Samsung electro-mechanics,401110,$0.0109,$0.0057,,https://www.lcsc.com/partdetail/2156-CL21C220JBANNNC/C1804,,MLCC,50V,,±5%,22pF,0805,C0G
+C1846,1206B103K500NT,Basic,Fh (guangdong Fenghua Advanced tech),322803,$0.0115,$0.0066,,https://www.lcsc.com/partdetail/2198-1206B103K500NT/C1846,,MLCC,50V,,±10%,10nF,1206,X7R
+C1848,CL31B105KBHNNNE,Basic,Samsung electro-mechanics,873408,$0.0179,$0.0121,,https://www.lcsc.com/partdetail/2200-CL31B105KBHNNNE/C1848,,MLCC,50V,,±10%,1uF,1206,X7R
+C5378,CL21B224KBFNNNE,Basic,Samsung electro-mechanics,358784,$0.0102,$0.0069,,https://www.lcsc.com/partdetail/5810-CL21B224KBFNNNE/C5378,,MLCC,50V,,±10%,220nF,0805,X7R
+C9196,1206B102K202NT,Basic,Fh (guangdong Fenghua Advanced tech),3302574,$0.0082,$0.0047,,https://www.lcsc.com/partdetail/9721-1206B102K202NT/C9196,,MLCC,2kV,,±10%,1nF,1206,X7R
+C12530,CL05A225MQ5NSNC,Basic,Samsung electro-mechanics,4045613,$0.0020,$0.0012,,https://www.lcsc.com/partdetail/13164-CL05A225MQ5NSNC/C12530,,MLCC,3V,,±20%,2uF,0402,X5R
+C12891,CL31A226KAHNNNE,Basic,Samsung electro-mechanics,675336,$0.0395,$0.0258,,https://www.lcsc.com/partdetail/13537-CL31A226KAHNNNE/C12891,,MLCC,25V,,±10%,22uF,1206,X5R
+C13585,CL31A106KBHNNNE,Basic,Samsung electro-mechanics,4879173,$0.0293,$0.0180,,https://www.lcsc.com/partdetail/14236-CL31A106KBHNNNE/C13585,,MLCC,50V,,±10%,10uF,1206,X5R
+C13967,CL21B474KBFNNNE,Basic,Samsung electro-mechanics,197016,$0.0121,$0.0079,,https://www.lcsc.com/partdetail/14623-CL21B474KBFNNNE/C13967,,MLCC,50V,,±10%,470nF,0805,X7R
+C14663,CC0603KRX7R9BB104,Basic,Yageo,29812665,$0.0024,$0.0015,,https://www.lcsc.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663,,MLCC,50V,,±10%,100nF,0603,X7R
+C14857,CL21C470JBANNNC,Basic,Samsung electro-mechanics,255324,$0.0110,$0.0066,,https://www.lcsc.com/partdetail/15529-CL21C470JBANNNC/C14857,,MLCC,50V,,±5%,47pF,0805,C0G
+C14858,CL10C101JB8NNNC,Basic,Samsung electro-mechanics,3954678,$0.0025,$0.0015,,https://www.lcsc.com/partdetail/15530-CL10C101JB8NNNC/C14858,,MLCC,50V,,±5%,100pF,0603,C0G
+C15008,CL31A107MQHNNNE,Basic,Samsung electro-mechanics,156944,$0.0624,$0.0393,,https://www.lcsc.com/partdetail/15681-CL31A107MQHNNNE/C15008,,MLCC,3V,,±20%,100uF,1206,X5R
+C15195,CL05B103KB5NNNC,Basic,Samsung electro-mechanics,2294279,$0.0012,$0.0007,,https://www.lcsc.com/partdetail/15869-CL05B103KB5NNNC/C15195,,MLCC,50V,,±10%,10nF,0402,X7R
+C15525,CL05A106MQ5NUNC,Basic,Samsung electro-mechanics,9237672,$0.0039,$0.0022,,https://www.lcsc.com/partdetail/16204-CL05A106MQ5NUNC/C15525,,MLCC,3V,,±20%,10uF,0402,X5R
+C15849,CL10A105KB8NNNC,Basic,Samsung electro-mechanics,10294741,$0.0041,$0.0026,,https://www.lcsc.com/partdetail/16531-CL10A105KB8NNNC/C15849,,MLCC,50V,,±10%,1uF,0603,X5R
+C15850,CL21A106KAYNNNE,Basic,Samsung electro-mechanics,8422399,$0.0089,$0.0061,,https://www.lcsc.com/partdetail/16532-CL21A106KAYNNNE/C15850,,MLCC,25V,,±10%,10uF,0805,X5R
+C16772,CL05B224KO5NNNC,Basic,Samsung electro-mechanics,430312,$0.0044,$0.0029,,https://www.lcsc.com/partdetail/17456-CL05B224KO5NNNC/C16772,,MLCC,16V,,±10%,220nF,0402,X7R
+C16780,CL21A476MQYNNNE,Basic,Samsung electro-mechanics,890476,$0.0242,$0.0143,,https://www.lcsc.com/partdetail/17464-CL21A476MQYNNNE/C16780,,MLCC,3V,,±20%,47uF,0805,X5R
+C19666,CL10A475KO8NNNC,Basic,Samsung electro-mechanics,2928897,$0.0098,$0.0060,,https://www.lcsc.com/partdetail/20375-CL10A475KO8NNNC/C19666,,MLCC,16V,,±10%,7uF,0603,X5R
+C19702,CL10A106KP8NNNC,Basic,Samsung electro-mechanics,11930829,$0.0054,$0.0032,,https://www.lcsc.com/partdetail/20411-CL10A106KP8NNNC/C19702,,MLCC,10V,,±10%,10uF,0603,X5R
+C21117,CL10B333KB8NNNC,Basic,Samsung electro-mechanics,455286,$0.0033,$0.0021,,https://www.lcsc.com/partdetail/21829-CL10B333KB8NNNC/C21117,,MLCC,50V,,±10%,33nF,0603,X7R
+C21120,CL10B224KA8NNNC,Basic,Samsung electro-mechanics,807294,$0.0054,$0.0035,,https://www.lcsc.com/partdetail/21832-CL10B224KA8NNNC/C21120,,MLCC,25V,,±10%,220nF,0603,X7R
+C21122,CL10B223KB8NNNC,Basic,Samsung electro-mechanics,582653,$0.0032,$0.0020,,https://www.lcsc.com/partdetail/21834-CL10B223KB8NNNC/C21122,,MLCC,50V,,±10%,22nF,0603,X7R
+C23630,CL10A225KO8NNNC,Basic,Samsung electro-mechanics,2502262,$0.0056,$0.0038,,https://www.lcsc.com/partdetail/24366-CL10A225KO8NNNC/C23630,,MLCC,16V,,±10%,2uF,0603,X5R
+C23733,CL05A475MP5NRNC,Basic,Samsung electro-mechanics,859904,$0.0052,$0.0030,,https://www.lcsc.com/partdetail/24469-CL05A475MP5NRNC/C23733,,MLCC,10V,,±20%,7uF,0402,X5R
+C24497,CL31B104KBCNNNC,Basic,Samsung electro-mechanics,1095430,$0.0135,$0.0077,,https://www.lcsc.com/partdetail/25237-CL31B104KBCNNNC/C24497,,MLCC,50V,,±10%,100nF,1206,X7R
+C28233,CL21B104KCFNNNE,Basic,Samsung electro-mechanics,1040370,$0.0055,$0.0044,,https://www.lcsc.com/partdetail/28983-CL21B104KCFNNNE/C28233,,MLCC,100V,,±10%,100nF,0805,X7R
+C28260,CL21C222JBFNNNE,Basic,Samsung electro-mechanics,93678,$0.0287,$0.0156,,https://www.lcsc.com/partdetail/29010-CL21C222JBFNNNE/C28260,,MLCC,50V,,±5%,2nF,0805,C0G
+C28323,CL21B105KBFNNNE,Basic,Samsung electro-mechanics,3774921,$0.0080,$0.0055,,https://www.lcsc.com/partdetail/29074-CL21B105KBFNNNE/C28323,,MLCC,50V,,±10%,1uF,0805,X7R
+C29823,1206B475K500NT,Basic,Fh (guangdong Fenghua Advanced tech),508531,$0.0294,$0.0180,,https://www.lcsc.com/partdetail/30577-1206B475K500NT/C29823,,MLCC,50V,,±10%,7uF,1206,X7R
+C32949,CL05C100JB5NNNC,Basic,Samsung electro-mechanics,429835,$0.0047,$0.0030,,https://www.lcsc.com/partdetail/33914-CL05C100JB5NNNC/C32949,,MLCC,50V,,±5%,10pF,0402,C0G
+C38523,CL10C120JB8NNNC,Basic,Samsung electro-mechanics,1198036,$0.0039,$0.0024,,https://www.lcsc.com/partdetail/39506-CL10C120JB8NNNC/C38523,,MLCC,50V,,±5%,12pF,0603,C0G
+C45783,CL21A226MAQNNNE,Basic,Samsung electro-mechanics,2946079,$0.0215,$0.0131,,https://www.lcsc.com/partdetail/46786-CL21A226MAQNNNE/C45783,,MLCC,25V,,±20%,22uF,0805,X5R
+C46653,CL21B102KBCNNNC,Basic,Samsung electro-mechanics,605480,$0.0074,$0.0042,,https://www.lcsc.com/partdetail/47657-CL21B102KBCNNNC/C46653,,MLCC,50V,,±10%,1nF,0805,X7R
+C49678,CC0805KRX7R9BB104,Basic,Yageo,13749412,$0.0048,$0.0030,,https://www.lcsc.com/partdetail/Yageo-CC0805KRX7R9BB104/C49678,,MLCC,50V,,±10%,100nF,0805,X7R
+C50254,CL31B225KBHNNNE,Basic,Samsung electro-mechanics,245596,$0.0264,$0.0164,,https://www.lcsc.com/partdetail/51263-CL31B225KBHNNNE/C50254,,MLCC,50V,,±10%,2uF,1206,X7R
+C52923,CL05A105KA5NQNC,Basic,Samsung electro-mechanics,8387725,$0.0025,$0.0014,,https://www.lcsc.com/partdetail/53938-CL05A105KA5NQNC/C52923,,MLCC,25V,,±10%,1uF,0402,X5R
+C53134,CL21B473KBCNNNC,Basic,Samsung electro-mechanics,84249,$0.0102,$0.0058,,https://www.lcsc.com/partdetail/54150-CL21B473KBCNNNC/C53134,,MLCC,50V,,±10%,47nF,0805,X7R
+C53987,0603B472K500NT,Basic,Fh (guangdong Fenghua Advanced tech),537368,$0.0028,$0.0017,,https://www.lcsc.com/partdetail/55004-0603B472K500NT/C53987,,MLCC,50V,,±10%,7nF,0603,X7R
+C57112,0603B103K500NT,Basic,Fh (guangdong Fenghua Advanced tech),4969665,$0.0024,$0.0015,,https://www.lcsc.com/partdetail/58143-0603B103K500NT/C57112,,MLCC,50V,,±10%,10nF,0603,X7R
+C59461,CL10A226MQ8NRNC,Basic,Samsung electro-mechanics,6688598,$0.0071,$0.0043,,https://www.lcsc.com/partdetail/60514-CL10A226MQ8NRNC/C59461,,MLCC,3V,,±20%,22uF,0603,X5R
+C96123,CL31A476MPHNNNE,Basic,Samsung electro-mechanics,418542,$0.0699,$0.0420,,https://www.lcsc.com/partdetail/97327-CL31A476MPHNNNE/C96123,,MLCC,10V,,±20%,47uF,1206,X5R
+C96446,CL10A106MA8NRNC,Basic,Samsung electro-mechanics,4225016,$0.0147,$0.0090,,https://www.lcsc.com/partdetail/97651-CL10A106MA8NRNC/C96446,,MLCC,25V,,±20%,10uF,0603,X5R
+C107145,CC0805KRX7R9BB221,Basic,Yageo,114819,$0.0050,$0.0032,,https://www.lcsc.com/partdetail/Yageo-CC0805KRX7R9BB221/C107145,,MLCC,50V,,±10%,220pF,0805,X7R
+C307331,CL05B104KB54PNC,Basic,Samsung electro-mechanics,5404325,$0.0052,$0.0031,,https://www.lcsc.com/partdetail/291005-CL05B104KB54PNC/C307331,,MLCC,50V,,±10%,100nF,0402,X7R
+C377773,CL21A225KBQNNNE,Basic,Samsung electro-mechanics,921256,$0.0148,$0.0085,,https://www.lcsc.com/partdetail/350246-CL21A225KBQNNNE/C377773,,MLCC,50V,,±10%,2uF,0805,X5R
+C440198,GRM21BR61H106KE43L,Basic,Murata Electronics,1429229,$0.0669,$0.0378,,https://www.lcsc.com/partdetail/439567-GRM21BR61H106KE43L/C440198,,MLCC,50V,,±10%,10uF,0805,X5R
+C1322360,0603B822K500NT,Basic,Fh (guangdong Fenghua Advanced tech),25181,$0.0030,$0.0017,,https://www.lcsc.com/partdetail/1413077-0603B822K500NT/C1322360,,MLCC,50V,,±10%,2nF,0603,X7R
+C1980,4D03WGJ0472T5E,Basic,uni-royal(uniroyal elec),169765,$0.0056,$0.0036,,https://www.lcsc.com/partdetail/2332-4D03WGJ0472T5E/C1980,5mW,Resistor Networks,,±200ppm/℃,±5%,4.7k,0603,
+C4109,0402WGF2001TCE,Basic,uni-royal(uniroyal elec),1717301,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/4516-0402WGF2001TCE/C4109,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,2k,0402,
+C4177,0603WAF1801T5E,Basic,uni-royal(uniroyal elec),832305,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/4584-0603WAF1801T5E/C4177,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,1.8k,0603,
+C4184,0603WAF2002T5E,Basic,uni-royal(uniroyal elec),6427666,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/4591-0603WAF2002T5E/C4184,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,20k,0603,
+C4190,0603WAF2201T5E,Basic,uni-royal(uniroyal elec),4898669,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/4597-0603WAF2201T5E/C4190,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,2.2k,0603,
+C4211,0603WAF3001T5E,Basic,uni-royal(uniroyal elec),2467743,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/4618-0603WAF3001T5E/C4211,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,3k,0603,
+C4216,0603WAF3302T5E,Basic,uni-royal(uniroyal elec),596010,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/4623-0603WAF3302T5E/C4216,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,33k,0603,
+C4260,0603WAF6201T5E,Basic,uni-royal(uniroyal elec),321238,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/4667-0603WAF6201T5E/C4260,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,6.2k,0603,
+C4275,0603WAF750JT5E,Basic,uni-royal(uniroyal elec),3338849,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/4682-0603WAF750JT5E/C4275,100mW,Thick Film Resistors,75V,±200ppm/℃,±1%,75Ω,0603,
+C4310,0805W8F1501T5E,Basic,uni-royal(uniroyal elec),821908,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/4717-0805W8F1501T5E/C4310,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,1.5k,0805,
+C4328,0805W8F2002T5E,Basic,uni-royal(uniroyal elec),1753114,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/4735-0805W8F2002T5E/C4328,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,20k,0805,
+C4382,0805W8F5601T5E,Basic,uni-royal(uniroyal elec),248787,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/4789-0805W8F5601T5E/C4382,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,5.6k,0805,
+C4410,1206W4F1001T5E,Basic,uni-royal(uniroyal elec),1187078,$0.0029,$0.0019,,https://www.lcsc.com/partdetail/4817-1206W4F1001T5E/C4410,250mW,Thick Film Resistors,200V,,±1%,1k,1206,
+C7250,0603WAF1005T5E,Basic,uni-royal(uniroyal elec),169206,$0.0015,$0.0010,,https://www.lcsc.com/partdetail/7726-0603WAF1005T5E/C7250,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,10M,0603,
+C8218,0603WAF2000T5E,Basic,uni-royal(uniroyal elec),2167118,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/8708-0603WAF2000T5E/C8218,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,200Ω,0603,
+C11702,0402WGF1001TCE,Basic,uni-royal(uniroyal elec),10729563,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/12256-0402WGF1001TCE/C11702,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,1k,0402,
+C13167,0603WAF2701T5E,Basic,uni-royal(uniroyal elec),1260951,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/13814-0603WAF2701T5E/C13167,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,2.7k,0603,
+C17168,0402WGF0000TCE,Basic,uni-royal(uniroyal elec),5556475,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/17853-0402WGF0000TCE/C17168,5mW,Thick Film Resistors,50V,±800ppm/℃,±1%,0Ω,0402,
+C17379,0805W8F1201T5E,Basic,uni-royal(uniroyal elec),1084194,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18067-0805W8F1201T5E/C17379,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,1.2k,0805,
+C17408,0805W8F1000T5E,Basic,uni-royal(uniroyal elec),3050652,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18096-0805W8F1000T5E/C17408,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,100Ω,0805,
+C17414,0805W8F1002T5E,Basic,uni-royal(uniroyal elec),9386008,$0.0017,$0.0010,,https://www.lcsc.com/partdetail/18102-0805W8F1002T5E/C17414,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,10k,0805,
+C17415,0805W8F100JT5E,Basic,uni-royal(uniroyal elec),3170483,$0.0015,$0.0009,,https://www.lcsc.com/partdetail/18103-0805W8F100JT5E/C17415,125mW,Thick Film Resistors,150V,±200ppm/℃,±1%,10Ω,0805,
+C17437,0805W8F1200T5E,Basic,uni-royal(uniroyal elec),824708,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18125-0805W8F1200T5E/C17437,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,120Ω,0805,
+C17444,0805W8F1202T5E,Basic,uni-royal(uniroyal elec),214064,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/18132-0805W8F1202T5E/C17444,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,12k,0805,
+C17470,0805W8F1503T5E,Basic,uni-royal(uniroyal elec),476813,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18158-0805W8F1503T5E/C17470,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,150k,0805,
+C17471,0805W8F1500T5E,Basic,uni-royal(uniroyal elec),992841,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18159-0805W8F1500T5E/C17471,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,150Ω,0805,
+C17475,0805W8F1502T5E,Basic,uni-royal(uniroyal elec),568245,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18163-0805W8F1502T5E/C17475,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,15k,0805,
+C17477,0805W8F0000T5E,Basic,uni-royal(uniroyal elec),4128536,$0.0016,$0.0010,,https://www.lcsc.com/partdetail/18165-0805W8F0000T5E/C17477,125mW,Thick Film Resistors,150V,±800ppm/℃,±1%,0Ω,0805,
+C17513,0805W8F1001T5E,Basic,uni-royal(uniroyal elec),10405357,$0.0017,$0.0010,,https://www.lcsc.com/partdetail/18201-0805W8F1001T5E/C17513,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,1k,0805,
+C17514,0805W8F1004T5E,Basic,uni-royal(uniroyal elec),1735765,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18202-0805W8F1004T5E/C17514,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,1M,0805,
+C17520,0805W8F2201T5E,Basic,uni-royal(uniroyal elec),1509431,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18208-0805W8F2201T5E/C17520,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,2.2k,0805,
+C17521,0805W8F220KT5E,Basic,uni-royal(uniroyal elec),230937,$0.0029,$0.0018,,https://www.lcsc.com/partdetail/18209-0805W8F220KT5E/C17521,125mW,Thick Film Resistors,150V,±400ppm/℃,±1%,2.2Ω,0805,
+C17526,0805W8F2401T5E,Basic,uni-royal(uniroyal elec),443853,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18214-0805W8F2401T5E/C17526,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,2.4k,0805,
+C17530,0805W8F2701T5E,Basic,uni-royal(uniroyal elec),372344,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18218-0805W8F2701T5E/C17530,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,2.7k,0805,
+C17539,0805W8F2003T5E,Basic,uni-royal(uniroyal elec),188019,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18227-0805W8F2003T5E/C17539,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,200k,0805,
+C17540,0805W8F2000T5E,Basic,uni-royal(uniroyal elec),524116,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18228-0805W8F2000T5E/C17540,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,200Ω,0805,
+C17544,0805W8F200JT5E,Basic,uni-royal(uniroyal elec),765224,$0.0017,$0.0010,,https://www.lcsc.com/partdetail/18232-0805W8F200JT5E/C17544,125mW,Thick Film Resistors,150V,±200ppm/℃,±1%,20Ω,0805,
+C17556,0805W8F2203T5E,Basic,uni-royal(uniroyal elec),240810,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18244-0805W8F2203T5E/C17556,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,220k,0805,
+C17557,0805W8F2200T5E,Basic,uni-royal(uniroyal elec),752201,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/18245-0805W8F2200T5E/C17557,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,220Ω,0805,
+C17560,0805W8F2202T5E,Basic,uni-royal(uniroyal elec),738304,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/18248-0805W8F2202T5E/C17560,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,22k,0805,
+C17561,0805W8F220JT5E,Basic,uni-royal(uniroyal elec),1043311,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18249-0805W8F220JT5E/C17561,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,22Ω,0805,
+C17575,0805W8F2402T5E,Basic,uni-royal(uniroyal elec),208491,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/18263-0805W8F2402T5E/C17575,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,24k,0805,
+C17593,0805W8F2702T5E,Basic,uni-royal(uniroyal elec),22371,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18281-0805W8F2702T5E/C17593,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,27k,0805,
+C17604,0805W8F2001T5E,Basic,uni-royal(uniroyal elec),1157716,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18292-0805W8F2001T5E/C17604,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,2k,0805,
+C17614,0805W8F3901T5E,Basic,uni-royal(uniroyal elec),156183,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18302-0805W8F3901T5E/C17614,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,3.9k,0805,
+C17617,0805W8F3000T5E,Basic,uni-royal(uniroyal elec),488550,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18305-0805W8F3000T5E/C17617,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,300Ω,0805,
+C17621,0805W8F3002T5E,Basic,uni-royal(uniroyal elec),325657,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18309-0805W8F3002T5E/C17621,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,30k,0805,
+C17630,0805W8F3300T5E,Basic,uni-royal(uniroyal elec),1669742,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18318-0805W8F3300T5E/C17630,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,330Ω,0805,
+C17633,0805W8F3302T5E,Basic,uni-royal(uniroyal elec),201559,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18321-0805W8F3302T5E/C17633,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,33k,0805,
+C17634,0805W8F330JT5E,Basic,uni-royal(uniroyal elec),357139,$0.0016,$0.0010,,https://www.lcsc.com/partdetail/18322-0805W8F330JT5E/C17634,125mW,Thick Film Resistors,150V,±200ppm/℃,±1%,33Ω,0805,
+C17655,0805W8F3900T5E,Basic,uni-royal(uniroyal elec),205153,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18343-0805W8F3900T5E/C17655,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,390Ω,0805,
+C17661,0805W8F3001T5E,Basic,uni-royal(uniroyal elec),715920,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18349-0805W8F3001T5E/C17661,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,3k,0805,
+C17673,0805W8F4701T5E,Basic,uni-royal(uniroyal elec),1986866,$0.0017,$0.0011,,https://www.lcsc.com/partdetail/18361-0805W8F4701T5E/C17673,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,4.7k,0805,
+C17675,0805W8F470KT5E,Basic,uni-royal(uniroyal elec),308877,$0.0029,$0.0018,,https://www.lcsc.com/partdetail/18363-0805W8F470KT5E/C17675,125mW,Thick Film Resistors,150V,±200ppm/℃,±1%,4.7Ω,0805,
+C17709,0805W8F4703T5E,Basic,uni-royal(uniroyal elec),576108,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18397-0805W8F4703T5E/C17709,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,470k,0805,
+C17710,0805W8F4700T5E,Basic,uni-royal(uniroyal elec),746457,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18398-0805W8F4700T5E/C17710,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,470Ω,0805,
+C17713,0805W8F4702T5E,Basic,uni-royal(uniroyal elec),545910,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18401-0805W8F4702T5E/C17713,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,47k,0805,
+C17714,0805W8F470JT5E,Basic,uni-royal(uniroyal elec),466139,$0.0018,$0.0011,,https://www.lcsc.com/partdetail/18402-0805W8F470JT5E/C17714,125mW,Thick Film Resistors,150V,±200ppm/℃,±1%,47Ω,0805,
+C17720,0805W8F499JT5E,Basic,uni-royal(uniroyal elec),234589,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18408-0805W8F499JT5E/C17720,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,49.9Ω,0805,
+C17724,0805W8F510KT5E,Basic,uni-royal(uniroyal elec),216725,$0.0029,$0.0018,,https://www.lcsc.com/partdetail/18412-0805W8F510KT5E/C17724,125mW,Thick Film Resistors,150V,±400ppm/℃,±1%,5.1Ω,0805,
+C17734,0805W8F5100T5E,Basic,uni-royal(uniroyal elec),772685,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/18422-0805W8F5100T5E/C17734,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,510Ω,0805,
+C17737,0805W8F5102T5E,Basic,uni-royal(uniroyal elec),408819,$0.0019,$0.0012,,https://www.lcsc.com/partdetail/18425-0805W8F5102T5E/C17737,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,51k,0805,
+C17738,0805W8F510JT5E,Basic,uni-royal(uniroyal elec),754382,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18426-0805W8F510JT5E/C17738,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,51Ω,0805,
+C17772,0805W8F6801T5E,Basic,uni-royal(uniroyal elec),485709,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18460-0805W8F6801T5E/C17772,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,6.8k,0805,
+C17798,0805W8F6800T5E,Basic,uni-royal(uniroyal elec),257376,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18486-0805W8F6800T5E/C17798,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,680Ω,0805,
+C17801,0805W8F6802T5E,Basic,uni-royal(uniroyal elec),151665,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18489-0805W8F6802T5E/C17801,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,68k,0805,
+C17828,0805W8F8201T5E,Basic,uni-royal(uniroyal elec),84162,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/18516-0805W8F8201T5E/C17828,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,8.2k,0805,
+C17887,1206W4F3000T5E,Basic,uni-royal(uniroyal elec),155720,$0.0032,$0.0020,,https://www.lcsc.com/partdetail/18575-1206W4F3000T5E/C17887,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,300Ω,1206,
+C17888,1206W4F0000T5E,Basic,uni-royal(uniroyal elec),2125316,$0.0029,$0.0016,,https://www.lcsc.com/partdetail/18576-1206W4F0000T5E/C17888,250mW,Thick Film Resistors,200V,±800ppm/℃,±1%,0Ω,1206,
+C17900,1206W4F1003T5E,Basic,uni-royal(uniroyal elec),1362263,$0.0028,$0.0016,,https://www.lcsc.com/partdetail/18588-1206W4F1003T5E/C17900,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,100k,1206,
+C17901,1206W4F1000T5E,Basic,uni-royal(uniroyal elec),1929927,$0.0027,$0.0016,,https://www.lcsc.com/partdetail/18589-1206W4F1000T5E/C17901,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,100Ω,1206,
+C17902,1206W4F1002T5E,Basic,uni-royal(uniroyal elec),1889584,$0.0030,$0.0018,,https://www.lcsc.com/partdetail/18590-1206W4F1002T5E/C17902,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,10k,1206,
+C17903,1206W4F100JT5E,Basic,uni-royal(uniroyal elec),1006704,$0.0029,$0.0018,,https://www.lcsc.com/partdetail/18591-1206W4F100JT5E/C17903,250mW,Thick Film Resistors,200V,±400ppm/℃,±1%,10Ω,1206,
+C17909,1206W4F1200T5E,Basic,uni-royal(uniroyal elec),262696,$0.0031,$0.0019,,https://www.lcsc.com/partdetail/18597-1206W4F1200T5E/C17909,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,120Ω,1206,
+C17927,1206W4F1004T5E,Basic,uni-royal(uniroyal elec),04029451,$0.0026,$0.0017,,https://www.lcsc.com/partdetail/18615-1206W4F1004T5E/C17927,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,1M,1206,
+C17928,1206W4F100KT5E,Basic,uni-royal(uniroyal elec),301035,$0.0048,$0.0026,,https://www.lcsc.com/partdetail/18616-1206W4F100KT5E/C17928,250mW,Thick Film Resistors,200V,±800ppm/℃,±1%,1Ω,1206,
+C17936,1206W4F4701T5E,Basic,uni-royal(uniroyal elec),449862,$0.0031,$0.0019,,https://www.lcsc.com/partdetail/18624-1206W4F4701T5E/C17936,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,4.7k,1206,
+C17944,1206W4F2001T5E,Basic,uni-royal(uniroyal elec),617479,$0.0031,$0.0019,,https://www.lcsc.com/partdetail/18632-1206W4F2001T5E/C17944,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,2k,1206,
+C17955,1206W4F200JT5E,Basic,uni-royal(uniroyal elec),441130,$0.0031,$0.0017,,https://www.lcsc.com/partdetail/18643-1206W4F200JT5E/C17955,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,20Ω,1206,
+C17958,1206W4F220JT5E,Basic,uni-royal(uniroyal elec),246636,$0.0032,$0.0018,,https://www.lcsc.com/partdetail/18646-1206W4F220JT5E/C17958,250mW,Thick Film Resistors,200V,±100ppm/℃,±1%,22Ω,1206,
+C20197,4D03WGJ0102T5E,Basic,uni-royal(uniroyal elec),476279,$0.0053,$0.0030,,https://www.lcsc.com/partdetail/20907-4D03WGJ0102T5E/C20197,5mW,Resistor Networks,,±200ppm/℃,±5%,1k,0603,
+C21189,0603WAF0000T5E,Basic,uni-royal(uniroyal elec),6478193,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/21903-0603WAF0000T5E/C21189,100mW,Thick Film Resistors,75V,,±1%,0Ω,0603,
+C21190,0603WAF1001T5E,Basic,uni-royal(uniroyal elec),22268456,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/21904-0603WAF1001T5E/C21190,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,1k,0603,
+C22765,0603WAF1201T5E,Basic,uni-royal(uniroyal elec),1059687,$0.0011,$0.0008,,https://www.lcsc.com/partdetail/23492-0603WAF1201T5E/C22765,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,1.2k,0603,
+C22775,0603WAF1000T5E,Basic,uni-royal(uniroyal elec),5682478,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23502-0603WAF1000T5E/C22775,100mW,Thick Film Resistors,75V,±200ppm/℃,±1%,100Ω,0603,
+C22787,0603WAF1200T5E,Basic,uni-royal(uniroyal elec),481799,$0.0011,$0.0008,,https://www.lcsc.com/partdetail/23514-0603WAF1200T5E/C22787,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,120Ω,0603,
+C22790,0603WAF1202T5E,Basic,uni-royal(uniroyal elec),900158,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23517-0603WAF1202T5E/C22790,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,12k,0603,
+C22797,0603WAF1302T5E,Basic,uni-royal(uniroyal elec),249604,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23524-0603WAF1302T5E/C22797,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,13k,0603,
+C22807,0603WAF1503T5E,Basic,uni-royal(uniroyal elec),513769,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23534-0603WAF1503T5E/C22807,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,150k,0603,
+C22808,0603WAF1500T5E,Basic,uni-royal(uniroyal elec),791995,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23535-0603WAF1500T5E/C22808,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,150Ω,0603,
+C22809,0603WAF1502T5E,Basic,uni-royal(uniroyal elec),891773,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23536-0603WAF1502T5E/C22809,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,15k,0603,
+C22843,0603WAF1501T5E,Basic,uni-royal(uniroyal elec),813377,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23570-0603WAF1501T5E/C22843,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,1.5k,0603,
+C22859,0603WAF100JT5E,Basic,uni-royal(uniroyal elec),4341401,$0.0009,$0.0006,,https://www.lcsc.com/partdetail/23586-0603WAF100JT5E/C22859,100mW,Thick Film Resistors,75V,±400ppm/℃,±1%,10Ω,0603,
+C22935,0603WAF1004T5E,Basic,uni-royal(uniroyal elec),2188044,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23662-0603WAF1004T5E/C22935,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,1M,0603,
+C22936,0603WAF100KT5E,Basic,uni-royal(uniroyal elec),1299521,$0.0015,$0.0010,,https://www.lcsc.com/partdetail/23663-0603WAF100KT5E/C22936,100mW,Thick Film Resistors,75V,±400ppm/℃,±1%,1Ω,0603,
+C22939,0603WAF220KT5E,Basic,uni-royal(uniroyal elec),645893,$0.0016,$0.0010,,https://www.lcsc.com/partdetail/23666-0603WAF220KT5E/C22939,100mW,Thick Film Resistors,75V,±400ppm/℃,±1%,2.2Ω,0603,
+C22940,0603WAF2401T5E,Basic,uni-royal(uniroyal elec),736980,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23667-0603WAF2401T5E/C22940,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,2.4k,0603,
+C22950,0603WAF200JT5E,Basic,uni-royal(uniroyal elec),936106,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23677-0603WAF200JT5E/C22950,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,20Ω,0603,
+C22961,0603WAF2203T5E,Basic,uni-royal(uniroyal elec),743215,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23688-0603WAF2203T5E/C22961,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,220k,0603,
+C22962,0603WAF2200T5E,Basic,uni-royal(uniroyal elec),2460185,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23689-0603WAF2200T5E/C22962,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,220Ω,0603,
+C22966,0603WAF2700T5E,Basic,uni-royal(uniroyal elec),350572,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23693-0603WAF2700T5E/C22966,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,270Ω,0603,
+C22967,0603WAF2702T5E,Basic,uni-royal(uniroyal elec),733724,$0.0011,$0.0008,,https://www.lcsc.com/partdetail/23694-0603WAF2702T5E/C22967,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,27k,0603,
+C22975,0603WAF2001T5E,Basic,uni-royal(uniroyal elec),7871788,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23702-0603WAF2001T5E/C22975,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,2k,0603,
+C22976,0603WAF2004T5E,Basic,uni-royal(uniroyal elec),655492,$0.0014,$0.0009,,https://www.lcsc.com/partdetail/23703-0603WAF2004T5E/C22976,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,2M,0603,
+C22977,0603WAF200KT5E,Basic,uni-royal(uniroyal elec),961698,$0.0015,$0.0009,,https://www.lcsc.com/partdetail/23704-0603WAF200KT5E/C22977,100mW,Thick Film Resistors,75V,±200ppm/℃,±1%,2Ω,0603,
+C22978,0603WAF3301T5E,Basic,uni-royal(uniroyal elec),2492065,$0.0009,$0.0006,,https://www.lcsc.com/partdetail/23705-0603WAF3301T5E/C22978,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,3.3k,0603,
+C22980,0603WAF3601T5E,Basic,uni-royal(uniroyal elec),361820,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23707-0603WAF3601T5E/C22980,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,3.6k,0603,
+C22984,0603WAF3002T5E,Basic,uni-royal(uniroyal elec),1629178,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23711-0603WAF3002T5E/C22984,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,30k,0603,
+C23018,0603WAF3901T5E,Basic,uni-royal(uniroyal elec),501816,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23745-0603WAF3901T5E/C23018,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,3.9k,0603,
+C23024,0603WAF3003T5E,Basic,uni-royal(uniroyal elec),848885,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23751-0603WAF3003T5E/C23024,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,300k,0603,
+C23025,0603WAF3000T5E,Basic,uni-royal(uniroyal elec),573869,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23752-0603WAF3000T5E/C23025,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,300Ω,0603,
+C23046,0603WAF4991T5E,Basic,uni-royal(uniroyal elec),703827,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23773-0603WAF4991T5E/C23046,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,4.99k,0603,
+C23137,0603WAF3303T5E,Basic,uni-royal(uniroyal elec),989173,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23864-0603WAF3303T5E/C23137,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,330k,0603,
+C23138,0603WAF3300T5E,Basic,uni-royal(uniroyal elec),1996274,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23865-0603WAF3300T5E/C23138,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,330Ω,0603,
+C23140,0603WAF330JT5E,Basic,uni-royal(uniroyal elec),2162475,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23867-0603WAF330JT5E/C23140,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,33Ω,0603,
+C23151,0603WAF3900T5E,Basic,uni-royal(uniroyal elec),376678,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23878-0603WAF3900T5E/C23151,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,390Ω,0603,
+C23153,0603WAF3902T5E,Basic,uni-royal(uniroyal elec),713494,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23880-0603WAF3902T5E/C23153,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,39k,0603,
+C23162,0603WAF4701T5E,Basic,uni-royal(uniroyal elec),5354624,$0.0011,$0.0006,,https://www.lcsc.com/partdetail/23889-0603WAF4701T5E/C23162,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,4.7k,0603,
+C23164,0603WAF470KT5E,Basic,uni-royal(uniroyal elec),533286,$0.0015,$0.0009,,https://www.lcsc.com/partdetail/23891-0603WAF470KT5E/C23164,100mW,Thick Film Resistors,75V,±400ppm/℃,±1%,4.7Ω,0603,
+C23178,0603WAF4703T5E,Basic,uni-royal(uniroyal elec),932143,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/23905-0603WAF4703T5E/C23178,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,470k,0603,
+C23179,0603WAF4700T5E,Basic,uni-royal(uniroyal elec),1929158,$0.0011,$0.0008,,https://www.lcsc.com/partdetail/23906-0603WAF4700T5E/C23179,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,470Ω,0603,
+C23182,0603WAF470JT5E,Basic,uni-royal(uniroyal elec),1033102,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23909-0603WAF470JT5E/C23182,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,47Ω,0603,
+C23184,0603WAF4992T5E,Basic,uni-royal(uniroyal elec),731793,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23911-0603WAF4992T5E/C23184,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,49.9k,0603,
+C23185,0603WAF499JT5E,Basic,uni-royal(uniroyal elec),681563,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23912-0603WAF499JT5E/C23185,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,49.9Ω,0603,
+C23186,0603WAF5101T5E,Basic,uni-royal(uniroyal elec),6597970,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23913-0603WAF5101T5E/C23186,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,5.1k,0603,
+C23189,0603WAF5601T5E,Basic,uni-royal(uniroyal elec),889039,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23916-0603WAF5601T5E/C23189,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,5.6k,0603,
+C23192,0603WAF5103T5E,Basic,uni-royal(uniroyal elec),962795,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23919-0603WAF5103T5E/C23192,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,510k,0603,
+C23193,0603WAF5100T5E,Basic,uni-royal(uniroyal elec),2393578,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23920-0603WAF5100T5E/C23193,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,510Ω,0603,
+C23196,0603WAF5102T5E,Basic,uni-royal(uniroyal elec),1463060,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23923-0603WAF5102T5E/C23196,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,51k,0603,
+C23197,0603WAF510JT5E,Basic,uni-royal(uniroyal elec),691394,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23924-0603WAF510JT5E/C23197,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,51Ω,0603,
+C23204,0603WAF5600T5E,Basic,uni-royal(uniroyal elec),438943,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23931-0603WAF5600T5E/C23204,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,560Ω,0603,
+C23206,0603WAF5602T5E,Basic,uni-royal(uniroyal elec),851868,$0.0011,$0.0008,,https://www.lcsc.com/partdetail/23933-0603WAF5602T5E/C23206,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,56k,0603,
+C23212,0603WAF6801T5E,Basic,uni-royal(uniroyal elec),977441,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23939-0603WAF6801T5E/C23212,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,6.8k,0603,
+C23228,0603WAF6800T5E,Basic,uni-royal(uniroyal elec),752639,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23955-0603WAF6800T5E/C23228,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,680Ω,0603,
+C23231,0603WAF6802T5E,Basic,uni-royal(uniroyal elec),331315,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23958-0603WAF6802T5E/C23231,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,68k,0603,
+C23234,0603WAF7501T5E,Basic,uni-royal(uniroyal elec),416255,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23961-0603WAF7501T5E/C23234,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,7.5k,0603,
+C23242,0603WAF7502T5E,Basic,uni-royal(uniroyal elec),1064539,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23969-0603WAF7502T5E/C23242,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,75k,0603,
+C23253,0603WAF8200T5E,Basic,uni-royal(uniroyal elec),355353,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23980-0603WAF8200T5E/C23253,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,820Ω,0603,
+C23254,0603WAF8202T5E,Basic,uni-royal(uniroyal elec),367271,$0.0011,$0.0007,,https://www.lcsc.com/partdetail/23981-0603WAF8202T5E/C23254,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,82k,0603,
+C23260,0603WAF9101T5E,Basic,uni-royal(uniroyal elec),390760,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/23987-0603WAF9101T5E/C23260,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,9.1k,0603,
+C23345,0603WAF220JT5E,Basic,uni-royal(uniroyal elec),2443605,$0.0009,$0.0006,,https://www.lcsc.com/partdetail/24078-0603WAF220JT5E/C23345,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,22Ω,0603,
+C23352,0603WAF2402T5E,Basic,uni-royal(uniroyal elec),757764,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/24085-0603WAF2402T5E/C23352,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,24k,0603,
+C25076,0402WGF1000TCE,Basic,uni-royal(uniroyal elec),2723279,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25819-0402WGF1000TCE/C25076,5mW,Thick Film Resistors,50V,±200ppm/℃,±1%,100Ω,0402,
+C25077,0402WGF100JTCE,Basic,uni-royal(uniroyal elec),2001060,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25820-0402WGF100JTCE/C25077,5mW,Thick Film Resistors,50V,±200ppm/℃,±1%,10Ω,0402,
+C25079,0402WGF1200TCE,Basic,uni-royal(uniroyal elec),452240,$0.0006,$0.0004,,https://www.lcsc.com/partdetail/25822-0402WGF1200TCE/C25079,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,120Ω,0402,
+C25087,0402WGF2000TCE,Basic,uni-royal(uniroyal elec),696124,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25830-0402WGF2000TCE/C25087,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,200Ω,0402,
+C25091,0402WGF2200TCE,Basic,uni-royal(uniroyal elec),735225,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25834-0402WGF2200TCE/C25091,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,220Ω,0402,
+C25092,0402WGF220JTCE,Basic,uni-royal(uniroyal elec),2519468,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25835-0402WGF220JTCE/C25092,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,22Ω,0402,
+C25104,0402WGF3300TCE,Basic,uni-royal(uniroyal elec),602133,$0.0006,$0.0004,,https://www.lcsc.com/partdetail/25847-0402WGF3300TCE/C25104,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,330Ω,0402,
+C25105,0402WGF330JTCE,Basic,uni-royal(uniroyal elec),1664589,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25848-0402WGF330JTCE/C25105,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,33Ω,0402,
+C25117,0402WGF4700TCE,Basic,uni-royal(uniroyal elec),1532575,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25860-0402WGF4700TCE/C25117,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,470Ω,0402,
+C25120,0402WGF499JTCE,Basic,uni-royal(uniroyal elec),621856,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25863-0402WGF499JTCE/C25120,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,49.9Ω,0402,
+C25123,0402WGF5100TCE,Basic,uni-royal(uniroyal elec),1113640,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/25866-0402WGF5100TCE/C25123,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,510Ω,0402,
+C25197,0603WAF510KT5E,Basic,uni-royal(uniroyal elec),1040962,$0.0016,$0.0010,,https://www.lcsc.com/partdetail/25940-0603WAF510KT5E/C25197,100mW,Thick Film Resistors,75V,±200ppm/℃,±1%,5.1Ω,0603,
+C25271,0805W8F100KT5E,Basic,uni-royal(uniroyal elec),563720,$0.0031,$0.0019,,https://www.lcsc.com/partdetail/26014-0805W8F100KT5E/C25271,125mW,Thick Film Resistors,150V,±400ppm/℃,±1%,1Ω,0805,
+C25334,1206W4F100LT5E,Basic,uni-royal(uniroyal elec),276597,$0.0048,$0.0025,,https://www.lcsc.com/partdetail/26077-1206W4F100LT5E/C25334,250mW,Thick Film Resistors,200V,±800ppm/℃,±1%,,1206,
+C25741,0402WGF1003TCE,Basic,uni-royal(uniroyal elec),5554540,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26484-0402WGF1003TCE/C25741,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,100k,0402,
+C25744,0402WGF1002TCE,Basic,uni-royal(uniroyal elec),6791375,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26487-0402WGF1002TCE/C25744,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,10k,0402,
+C25752,0402WGF1202TCE,Basic,uni-royal(uniroyal elec),511691,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26495-0402WGF1202TCE/C25752,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,12k,0402,
+C25756,0402WGF1502TCE,Basic,uni-royal(uniroyal elec),894489,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26499-0402WGF1502TCE/C25756,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,15k,0402,
+C25764,0402WGF2003TCE,Basic,uni-royal(uniroyal elec),920166,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26507-0402WGF2003TCE/C25764,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,200k,0402,
+C25765,0402WGF2002TCE,Basic,uni-royal(uniroyal elec),1754163,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26508-0402WGF2002TCE/C25765,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,20k,0402,
+C25768,0402WGF2202TCE,Basic,uni-royal(uniroyal elec),670319,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26511-0402WGF2202TCE/C25768,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,22k,0402,
+C25779,0402WGF3302TCE,Basic,uni-royal(uniroyal elec),703951,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26522-0402WGF3302TCE/C25779,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,33k,0402,
+C25792,0402WGF4702TCE,Basic,uni-royal(uniroyal elec),1562186,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26535-0402WGF4702TCE/C25792,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,47k,0402,
+C25794,0402WGF5102TCE,Basic,uni-royal(uniroyal elec),1006704,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26537-0402WGF5102TCE/C25794,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,51k,0402,
+C25803,0603WAF1003T5E,Basic,uni-royal(uniroyal elec),7154504,$0.0010,$0.0005,,https://www.lcsc.com/partdetail/26546-0603WAF1003T5E/C25803,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,100k,0603,
+C25804,0603WAF1002T5E,Basic,uni-royal(uniroyal elec),42545821,$0.0009,$0.0006,,https://www.lcsc.com/partdetail/26547-0603WAF1002T5E/C25804,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,10k,0603,
+C25808,0603WAF1203T5E,Basic,uni-royal(uniroyal elec),695025,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/26551-0603WAF1203T5E/C25808,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,120k,0603,
+C25810,0603WAF1802T5E,Basic,uni-royal(uniroyal elec),539941,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/26553-0603WAF1802T5E/C25810,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,18k,0603,
+C25811,0603WAF2003T5E,Basic,uni-royal(uniroyal elec),1730847,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/26554-0603WAF2003T5E/C25811,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,200k,0603,
+C25819,0603WAF4702T5E,Basic,uni-royal(uniroyal elec),2450946,$0.0010,$0.0006,,https://www.lcsc.com/partdetail/26562-0603WAF4702T5E/C25819,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,47k,0603,
+C25867,0402WGF1501TCE,Basic,uni-royal(uniroyal elec),792401,$0.0006,$0.0004,,https://www.lcsc.com/partdetail/26610-0402WGF1501TCE/C25867,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,1.5k,0402,
+C25879,0402WGF2201TCE,Basic,uni-royal(uniroyal elec),1196008,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26622-0402WGF2201TCE/C25879,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,2.2k,0402,
+C25890,0402WGF3301TCE,Basic,uni-royal(uniroyal elec),994239,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26633-0402WGF3301TCE/C25890,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,3.3k,0402,
+C25900,0402WGF4701TCE,Basic,uni-royal(uniroyal elec),5556068,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26643-0402WGF4701TCE/C25900,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,4.7k,0402,
+C25905,0402WGF5101TCE,Basic,uni-royal(uniroyal elec),2593234,$0.0005,$0.0003,,https://www.lcsc.com/partdetail/26648-0402WGF5101TCE/C25905,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,5.1k,0402,
+C25981,0603WAF8201T5E,Basic,uni-royal(uniroyal elec),615185,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/26724-0603WAF8201T5E/C25981,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,8.2k,0603,
+C26010,0805W8F3301T5E,Basic,uni-royal(uniroyal elec),729877,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/26753-0805W8F3301T5E/C26010,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,3.3k,0805,
+C26083,0402WGF1004TCE,Basic,uni-royal(uniroyal elec),1348738,$0.0006,$0.0003,,https://www.lcsc.com/partdetail/26826-0402WGF1004TCE/C26083,5mW,Thick Film Resistors,50V,±100ppm/℃,±1%,1M,0402,
+C27834,0805W8F5101T5E,Basic,uni-royal(uniroyal elec),1303388,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/28584-0805W8F5101T5E/C27834,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,5.1k,0805,
+C28636,0805W8F5600T5E,Basic,uni-royal(uniroyal elec),218295,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/29388-0805W8F5600T5E/C28636,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,560Ω,0805,
+C29718,4D03WGJ0103T5E,Basic,uni-royal(uniroyal elec),876783,$0.0055,$0.0035,,https://www.lcsc.com/partdetail/30472-4D03WGJ0103T5E/C29718,5mW,Resistor Networks,,±200ppm/℃,±5%,10k,0603,
+C31850,0603WAF2202T5E,Basic,uni-royal(uniroyal elec),1651995,$0.0010,$0.0007,,https://www.lcsc.com/partdetail/32812-0603WAF2202T5E/C31850,100mW,Thick Film Resistors,75V,±100ppm/℃,±1%,22k,0603,
+C149504,0805W8F1003T5E,Basic,uni-royal(uniroyal elec),2708006,$0.0018,$0.0012,,https://www.lcsc.com/partdetail/160838-0805W8F1003T5E/C149504,125mW,Thick Film Resistors,150V,±100ppm/℃,±1%,100k,0805,

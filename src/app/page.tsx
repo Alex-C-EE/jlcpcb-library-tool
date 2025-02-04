@@ -40,7 +40,6 @@ const JLCPCBFilter = () => {
         Papa.parse<string>(text, {
           header: true,
           skipEmptyLines: true,
-          delimiter: ";",  // Specify semicolon as the delimiter
           complete: (results) => {
             const parsedData = results.data as unknown as RowData[];
             setData(parsedData);
