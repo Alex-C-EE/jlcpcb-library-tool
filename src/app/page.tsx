@@ -1,5 +1,16 @@
 'use client';
 
+interface RowData {
+  'JLCPCB Part #': string;
+  Type: string;
+  Footprint: string;
+  Value: string;
+  'Voltage Rating': string;
+  Tolerance: string;
+  [key: string]: any; // This allows flexibility for any extra columns
+}
+
+
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -7,8 +18,8 @@ import { Input } from '@/components/ui/input';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 
 const JLCPCBFilter = () => {
-  const [data, setData] = useState([]);
-  const [filteredData, setFilteredData] = useState([]);
+  const [data, setData] = useState<RowData[]>([]);
+  const [filteredData, setFilteredData] = useState<RowData[]>([]);  
   const [filters, setFilters] = useState({
     type: 'All',
     footprint: 'All',
@@ -31,13 +42,12 @@ const JLCPCBFilter = () => {
           header: true,
           skipEmptyLines: true,
           complete: (results) => {
-            setData(results.data);
-            
-            // Extract unique values for filters
-            const uniqueTypes = ['All', ...new Set(results.data.map(row => row.Type).filter(Boolean))];
-            const uniqueFootprints = ['All', ...new Set(results.data.map(row => row.Footprint).filter(Boolean))];
-            const uniqueVoltages = ['All', ...new Set(results.data.map(row => row['Voltage Rating']).filter(Boolean))];
-            
+            setData(results.data as RowData[]); // Type assertion here
+                    
+            const uniqueTypes = ['All', ...new Set((results.data as RowData[]).map(row => row.Type).filter(Boolean))];
+            const uniqueFootprints = ['All', ...new Set((results.data as RowData[]).map(row => row.Footprint).filter(Boolean))];
+            const uniqueVoltages = ['All', ...new Set((results.data as RowData[]).map(row => row['Voltage Rating']).filter(Boolean))];
+          
             setTypes(uniqueTypes.sort());
             setFootprints(uniqueFootprints.sort());
             setVoltages(uniqueVoltages.sort());
