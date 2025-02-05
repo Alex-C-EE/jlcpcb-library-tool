@@ -14,7 +14,7 @@ interface RowData {
   Value: string;
   'Voltage Rating': string;
   Tolerance: string;
-  [key: string]: any; // This allows flexibility for any extra columns
+  [key: string]: any; // This allows flexibility for any extra columns !
 }
 
 const JLCPCBFilter = () => {
