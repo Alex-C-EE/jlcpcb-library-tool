@@ -1,13 +1,10 @@
 /** @type {import('next').NextConfig} */
-const isGithubPages = process.env.GITHUB_ACTIONS || false;
-
 const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
+  basePath: process.env.NODE_ENV === 'production' ? '/jlcpcb-library-tool' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/jlcpcb-library-tool/' : '',
+  publicRuntimeConfig: {
+    basePath: process.env.NODE_ENV === 'production' ? '/jlcpcb-library-tool' : '',
   },
-  basePath: isGithubPages ? '/jlcpcb-library-tool' : '',
-  assetPrefix: isGithubPages ? '/jlcpcb-library-tool/' : '',
-};
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig
