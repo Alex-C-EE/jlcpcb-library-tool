@@ -34,7 +34,7 @@ const JLCPCBFilter = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('/JLCPCB_Basic_Parts.csv');
+        const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/JLCPCB_Basic_Parts.csv`);
         const text = await response.text();
         
         Papa.parse<string>(text, {
