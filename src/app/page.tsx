@@ -120,21 +120,48 @@ const JLCPCBFilter = () => {
       filtered = filtered.filter(row => row['Voltage Rating'] === filters.voltage);
     }
 
-    // Apply sorting
-    if (sortConfig.key) {
-      filtered.sort((a, b) => {
-        // Special handling for Stock column to sort numerically
-        if (sortConfig.key === 'Stock') {
-          const aNum = parseInt(a[sortConfig.key]) || 0;
-          const bNum = parseInt(b[sortConfig.key]) || 0;
-          return sortConfig.direction === 'asc' ? aNum - bNum : bNum - aNum;
-        }
-        // Default string sorting for other columns
-        if (a[sortConfig.key] < b[sortConfig.key]) return sortConfig.direction === 'asc' ? -1 : 1;
-        if (a[sortConfig.key] > b[sortConfig.key]) return sortConfig.direction === 'asc' ? 1 : -1;
-        return 0;
-      });
+  // Helper function to convert capacitor values to picofarads for comparison
+  const parseCapacitorValue = (value: string): number => {
+    if (!value) return 0;
+    const match = value.toLowerCase().match(/^([\d.]+)\s*(p|n|u|m)?f$/);
+    if (!match) return 0;
+    
+    const [, numStr, unit] = match;
+    const baseValue = parseFloat(numStr);
+    
+    switch (unit) {
+      case 'p': return baseValue;
+      case 'n': return baseValue * 1000;
+      case 'u': return baseValue * 1000000;
+      case 'm': return baseValue * 1000000000;
+      default: return baseValue;
     }
+  };
+  
+  // Apply sorting
+  if (sortConfig.key) {
+    filtered.sort((a, b) => {
+      // Special handling for Stock column to sort numerically
+      if (sortConfig.key === 'Stock') {
+        const aNum = parseInt(a[sortConfig.key]) || 0;
+        const bNum = parseInt(b[sortConfig.key]) || 0;
+        return sortConfig.direction === 'asc' ? aNum - bNum : bNum - aNum;
+      }
+      
+      // Special handling for Value column when dealing with capacitors
+      if (sortConfig.key === 'Value' && filters.type === 'Capacitor') {
+        const aValue = parseCapacitorValue(a[sortConfig.key]);
+        const bValue = parseCapacitorValue(b[sortConfig.key]);
+        console.log(`Comparing: ${a[sortConfig.key]} (${aValue}pF) with ${b[sortConfig.key]} (${bValue}pF)`);
+        return sortConfig.direction === 'asc' ? aValue - bValue : bValue - aValue;
+      }
+      
+      // Default string sorting for other columns
+      if (a[sortConfig.key] < b[sortConfig.key]) return sortConfig.direction === 'asc' ? -1 : 1;
+      if (a[sortConfig.key] > b[sortConfig.key]) return sortConfig.direction === 'asc' ? 1 : -1;
+      return 0;
+  });
+  }
 
     return filtered;
   }, [data, filters, sortConfig]);
